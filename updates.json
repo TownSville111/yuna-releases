@@ -1,0 +1,19 @@
+{
+  "manifest_schema_version": 1,
+  "channels": {
+    "stable": {
+      "version": "0.11.0",
+      "package_url": "",
+      "sha256": "",
+      "size": null,
+      "notes": "Текущая версия."
+    },
+    "beta": {
+      "version": "0.11.0",
+      "package_url": "",
+      "sha256": "",
+      "size": null,
+      "notes": "Текущая версия (канал тестеров)."
+    }
+  }
+}
