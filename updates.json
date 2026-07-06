@@ -9,11 +9,11 @@
       "notes": "Текущая версия."
     },
     "beta": {
-      "version": "0.11.0",
-      "package_url": "",
-      "sha256": "",
-      "size": null,
-      "notes": "Текущая версия (канал тестеров)."
+      "version": "0.11.1",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.1/YUNA-0.11.1.zip",
+      "sha256": "57faaf7ad83aeca7d52fe661a744c21ab919eda7ccd8043e24ce28edbec25fe1",
+      "size": 811997837,
+      "notes": "Голос стабильнее, подарок новичка в гаче, реакции на игры и фиксы по вашим багам"
     }
   }
 }
