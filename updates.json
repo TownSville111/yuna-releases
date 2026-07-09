@@ -2,18 +2,18 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.0",
-      "package_url": "",
-      "sha256": "",
-      "size": null,
-      "notes": "Текущая версия."
+      "version": "0.11.3",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.3/YUNA-0.11.3.zip",
+      "sha256": "e500ed94b8da3c54e0ab39cc08a2a015cf54e13ebe8008123837403ba750ec2b",
+      "size": 1260546724,
+      "notes": "2-дневный пробный период, безопасная авторизация озвучки, бот поддержки, фиксы"
     },
     "beta": {
-      "version": "0.11.1",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.1/YUNA-0.11.1.zip",
-      "sha256": "57faaf7ad83aeca7d52fe661a744c21ab919eda7ccd8043e24ce28edbec25fe1",
-      "size": 811997837,
-      "notes": "Голос стабильнее, подарок новичка в гаче, реакции на игры и фиксы по вашим багам"
+      "version": "0.11.2",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.2/YUNA-0.11.2.zip",
+      "sha256": "4d6731adc446c2705db6e9b4cc1262632b3687e14ccf0618383d5d77cf68d04f",
+      "size": 811998057,
+      "notes": "Фикс автообновления: ошибка сертификата при скачивании. Плюс убран дублирующийся диалог обновления."
     }
   }
 }
