@@ -2,11 +2,11 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.3",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.3/YUNA-0.11.3.zip",
-      "sha256": "e500ed94b8da3c54e0ab39cc08a2a015cf54e13ebe8008123837403ba750ec2b",
-      "size": 1260546724,
-      "notes": "2-дневный пробный период, безопасная авторизация озвучки, бот поддержки, фиксы"
+      "version": "0.11.4",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.4/YUNA-0.11.4.zip",
+      "sha256": "f4352e57ce12832b1d0d598287491c417d2e5f93a1fa1fc381cd9da2a884284c",
+      "size": 1260547061,
+      "notes": "Фикс безопасности лицензии (привязка к устройству), фикс конфига Yuna AI (openrouter), бот поддержки"
     },
     "beta": {
       "version": "0.11.2",
