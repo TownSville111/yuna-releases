@@ -2,18 +2,18 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.4",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.4/YUNA-0.11.4.zip",
-      "sha256": "f4352e57ce12832b1d0d598287491c417d2e5f93a1fa1fc381cd9da2a884284c",
-      "size": 1260547061,
-      "notes": "Фикс безопасности лицензии (привязка к устройству), фикс конфига Yuna AI (openrouter), бот поддержки"
+      "version": "0.11.5",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.5/YUNA-0.11.5.zip",
+      "sha256": "2ccd2251997189b2b2c6a186de0ce0f22f12e00c9f6e949990d38a21ccf69ddb",
+      "size": 1260553733,
+      "notes": "Фикс автообновления и безопасности лицензии, соглашение в установщике, установка в C:\\YUNA"
     },
     "beta": {
-      "version": "0.11.2",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.2/YUNA-0.11.2.zip",
-      "sha256": "4d6731adc446c2705db6e9b4cc1262632b3687e14ccf0618383d5d77cf68d04f",
-      "size": 811998057,
-      "notes": "Фикс автообновления: ошибка сертификата при скачивании. Плюс убран дублирующийся диалог обновления."
+      "version": "0.11.5",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.5/YUNA-0.11.5.zip",
+      "sha256": "2ccd2251997189b2b2c6a186de0ce0f22f12e00c9f6e949990d38a21ccf69ddb",
+      "size": 1260553733,
+      "notes": "Фикс автообновления и безопасности лицензии, соглашение в установщике, установка в C:\\YUNA"
     }
   }
 }
