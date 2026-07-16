@@ -2,18 +2,18 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.5",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.5/YUNA-0.11.5.zip",
-      "sha256": "2ccd2251997189b2b2c6a186de0ce0f22f12e00c9f6e949990d38a21ccf69ddb",
-      "size": 1260553733,
-      "notes": "Фикс автообновления и безопасности лицензии, соглашение в установщике, установка в C:\\YUNA"
+      "version": "0.11.6",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.6/YUNA-0.11.6.zip",
+      "sha256": "70f49b5d1a1d4de0e662e6725536ca2b4c3e807f054a43a2fd89991f8d7dfb35",
+      "size": 1139301370,
+      "notes": "AI-диалог и озвучка через собственный сервер (OpenRouter/cvoice прокси), 2-дневный пробный период"
     },
     "beta": {
-      "version": "0.11.5",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.5/YUNA-0.11.5.zip",
-      "sha256": "2ccd2251997189b2b2c6a186de0ce0f22f12e00c9f6e949990d38a21ccf69ddb",
-      "size": 1260553733,
-      "notes": "Фикс автообновления и безопасности лицензии, соглашение в установщике, установка в C:\\YUNA"
+      "version": "0.11.6",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.6/YUNA-0.11.6.zip",
+      "sha256": "70f49b5d1a1d4de0e662e6725536ca2b4c3e807f054a43a2fd89991f8d7dfb35",
+      "size": 1139301370,
+      "notes": "AI-диалог и озвучка через собственный сервер (OpenRouter/cvoice прокси), 2-дневный пробный период"
     }
   }
 }
