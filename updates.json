@@ -2,18 +2,18 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.6",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.6/YUNA-0.11.6.zip",
-      "sha256": "70f49b5d1a1d4de0e662e6725536ca2b4c3e807f054a43a2fd89991f8d7dfb35",
-      "size": 1139301370,
-      "notes": "AI-диалог и озвучка через собственный сервер (OpenRouter/cvoice прокси), 2-дневный пробный период"
+      "version": "0.11.7",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.7/YUNA-0.11.7.zip",
+      "sha256": "b99763d611d15c080272583830aeabcb760b725c38d9a92ec0b68b0f47902d0e",
+      "size": 1139619886,
+      "notes": "Починен живой голос cvoice: теперь всегда через сервер Yuna (не требует личного API-ключа), авто-миграция настроек; сообщения в поддержку идут через сервер"
     },
     "beta": {
-      "version": "0.11.6",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.6/YUNA-0.11.6.zip",
-      "sha256": "70f49b5d1a1d4de0e662e6725536ca2b4c3e807f054a43a2fd89991f8d7dfb35",
-      "size": 1139301370,
-      "notes": "AI-диалог и озвучка через собственный сервер (OpenRouter/cvoice прокси), 2-дневный пробный период"
+      "version": "0.11.7",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.7/YUNA-0.11.7.zip",
+      "sha256": "b99763d611d15c080272583830aeabcb760b725c38d9a92ec0b68b0f47902d0e",
+      "size": 1139619886,
+      "notes": "Починен живой голос cvoice: теперь всегда через сервер Yuna (не требует личного API-ключа), авто-миграция настроек; сообщения в поддержку идут через сервер"
     }
   }
 }
