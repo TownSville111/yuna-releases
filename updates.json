@@ -2,18 +2,18 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.7",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.7/YUNA-0.11.7.zip",
-      "sha256": "b99763d611d15c080272583830aeabcb760b725c38d9a92ec0b68b0f47902d0e",
-      "size": 1139619886,
-      "notes": "Починен живой голос cvoice: теперь всегда через сервер Yuna (не требует личного API-ключа), авто-миграция настроек; сообщения в поддержку идут через сервер"
+      "version": "0.11.8",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.8/YUNA-0.11.8.zip",
+      "sha256": "184d5939d02fcc92ac3fb55c8a4f83f139f1b00d154c4dc58419c85c2abd731e",
+      "size": 934771143,
+      "notes": "Пробный период: окно об окончании доступа. Проверка обновлений вручную (Настройки → Общие). Стабильнее десктоп-модель. Мелкие исправления и улучшения безопасности."
     },
     "beta": {
-      "version": "0.11.7",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.7/YUNA-0.11.7.zip",
-      "sha256": "b99763d611d15c080272583830aeabcb760b725c38d9a92ec0b68b0f47902d0e",
-      "size": 1139619886,
-      "notes": "Починен живой голос cvoice: теперь всегда через сервер Yuna (не требует личного API-ключа), авто-миграция настроек; сообщения в поддержку идут через сервер"
+      "version": "0.11.8",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.8/YUNA-0.11.8.zip",
+      "sha256": "184d5939d02fcc92ac3fb55c8a4f83f139f1b00d154c4dc58419c85c2abd731e",
+      "size": 934771143,
+      "notes": "Пробный период: окно об окончании доступа. Проверка обновлений вручную (Настройки → Общие). Стабильнее десктоп-модель. Мелкие исправления и улучшения безопасности."
     }
   }
 }
