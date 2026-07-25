@@ -2,18 +2,18 @@
   "manifest_schema_version": 1,
   "channels": {
     "stable": {
-      "version": "0.11.8",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.8/YUNA-0.11.8.zip",
-      "sha256": "184d5939d02fcc92ac3fb55c8a4f83f139f1b00d154c4dc58419c85c2abd731e",
-      "size": 934771143,
-      "notes": "Пробный период: окно об окончании доступа. Проверка обновлений вручную (Настройки → Общие). Стабильнее десктоп-модель. Мелкие исправления и улучшения безопасности."
+      "version": "0.11.9",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.9/YUNA-0.11.9.zip",
+      "sha256": "90725771336bcf06d6d5fba472ea10cb3aae2cb670dce62bb574f4c9851561f3",
+      "size": 934772007,
+      "notes": "Регистрация стала обязательной: пробный период включается входом через Яндекс или по email — раньше мастер можно было закрыть кнопкой «Пропустить», не увидев экран активации."
     },
     "beta": {
-      "version": "0.11.8",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.8/YUNA-0.11.8.zip",
-      "sha256": "184d5939d02fcc92ac3fb55c8a4f83f139f1b00d154c4dc58419c85c2abd731e",
-      "size": 934771143,
-      "notes": "Пробный период: окно об окончании доступа. Проверка обновлений вручную (Настройки → Общие). Стабильнее десктоп-модель. Мелкие исправления и улучшения безопасности."
+      "version": "0.11.9",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.9/YUNA-0.11.9.zip",
+      "sha256": "90725771336bcf06d6d5fba472ea10cb3aae2cb670dce62bb574f4c9851561f3",
+      "size": 934772007,
+      "notes": "Регистрация стала обязательной: пробный период включается входом через Яндекс или по email — раньше мастер можно было закрыть кнопкой «Пропустить», не увидев экран активации."
     }
   }
 }
