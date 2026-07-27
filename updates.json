@@ -1,20 +1,44 @@
 {
   "channels": {
     "beta": {
-      "notes": "Регистрация стала обязательной: пробный период включается входом через Яндекс или по email — раньше мастер можно было закрыть кнопкой «Пропустить», не увидев экран активации.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.9/YUNA-0.11.9.zip",
-      "sha256": "90725771336bcf06d6d5fba472ea10cb3aae2cb670dce62bb574f4c9851561f3",
-      "size": 934772007,
-      "version": "0.11.9"
+      "deltas": {
+        "0.11.9": {
+          "sha256": "1dcf13dcb4fc98e77b2221af3cfceb7d115b4b92f89608575b0b12b79c1a90f8",
+          "size": 161936438,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.11.9.zip"
+        },
+        "0.12.0": {
+          "sha256": "f08298e5d88a39c2c153f300c82599143a0dd077daae696b3bb7c37cb6894771",
+          "size": 60137770,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.12.0.zip"
+        }
+      },
+      "notes": "Исправлен пустой экран лаунчера из версии 0.12.0. Новый логотип, честный статус запуска, дельта-обновления и пакет легче почти на 400 МБ.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1.zip",
+      "sha256": "a5573904ca8124d33ce8e18ab108c3dfcfc70118d0790431caef6fc434492fc4",
+      "size": 856641408,
+      "version": "0.12.1"
     },
     "stable": {
-      "notes": "Регистрация стала обязательной: пробный период включается входом через Яндекс или по email — раньше мастер можно было закрыть кнопкой «Пропустить», не увидев экран активации.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.9/YUNA-0.11.9.zip",
-      "sha256": "90725771336bcf06d6d5fba472ea10cb3aae2cb670dce62bb574f4c9851561f3",
-      "size": 934772007,
-      "version": "0.11.9"
+      "deltas": {
+        "0.11.9": {
+          "sha256": "1dcf13dcb4fc98e77b2221af3cfceb7d115b4b92f89608575b0b12b79c1a90f8",
+          "size": 161936438,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.11.9.zip"
+        },
+        "0.12.0": {
+          "sha256": "f08298e5d88a39c2c153f300c82599143a0dd077daae696b3bb7c37cb6894771",
+          "size": 60137770,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.12.0.zip"
+        }
+      },
+      "notes": "Исправлен пустой экран лаунчера из версии 0.12.0. Новый логотип, честный статус запуска, дельта-обновления и пакет легче почти на 400 МБ.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1.zip",
+      "sha256": "a5573904ca8124d33ce8e18ab108c3dfcfc70118d0790431caef6fc434492fc4",
+      "size": 856641408,
+      "version": "0.12.1"
     }
   },
   "manifest_schema_version": 1,
-  "signature": "j14PAGyTI6FcLm170L2cr/z5lqCLQPDTHhSZkTBcZPbIwESHgxtgCgLmRWkvlj/YfZD2kGDfodCoAEfoJMQNBA=="
+  "signature": "j9CLxdpIQPadHCYGmXGe27gDwMSLg/CBSIFxx1OF2WZ0iQOeJlPw7uu2S9GDGZlL/VItn+2W5j9m3Ks8QyyCBA=="
 }
