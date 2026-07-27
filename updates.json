@@ -1,19 +1,34 @@
 {
-  "manifest_schema_version": 1,
   "channels": {
-    "stable": {
-      "version": "0.11.9",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.9/YUNA-0.11.9.zip",
-      "sha256": "90725771336bcf06d6d5fba472ea10cb3aae2cb670dce62bb574f4c9851561f3",
-      "size": 934772007,
-      "notes": "Регистрация стала обязательной: пробный период включается входом через Яндекс или по email — раньше мастер можно было закрыть кнопкой «Пропустить», не увидев экран активации."
-    },
     "beta": {
-      "version": "0.11.9",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.11.9/YUNA-0.11.9.zip",
-      "sha256": "90725771336bcf06d6d5fba472ea10cb3aae2cb670dce62bb574f4c9851561f3",
-      "size": 934772007,
-      "notes": "Регистрация стала обязательной: пробный период включается входом через Яндекс или по email — раньше мастер можно было закрыть кнопкой «Пропустить», не увидев экран активации."
+      "deltas": {
+        "0.11.9": {
+          "sha256": "e2252334e49f74531604bc9a4e50401b67e34e76ddd7b41772c9d518448bea36",
+          "size": 161936010,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.0/YUNA-0.12.0-delta-from-0.11.9.zip"
+        }
+      },
+      "notes": "Новый логотип, обновления теперь скачиваются дельтами, пакет легче почти на 400 МБ. Юна честно показывает, что запускается, и не теряет оплаченный доступ. Исправлены пропавший фокус, двойные реплики в чате и подмена данных.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.0/YUNA-0.12.0.zip",
+      "sha256": "b91789b599f4f732fca4465c160995e1dcc9062302a63a86ee029e1c58d38ec5",
+      "size": 856640980,
+      "version": "0.12.0"
+    },
+    "stable": {
+      "deltas": {
+        "0.11.9": {
+          "sha256": "e2252334e49f74531604bc9a4e50401b67e34e76ddd7b41772c9d518448bea36",
+          "size": 161936010,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.0/YUNA-0.12.0-delta-from-0.11.9.zip"
+        }
+      },
+      "notes": "Новый логотип, обновления теперь скачиваются дельтами, пакет легче почти на 400 МБ. Юна честно показывает, что запускается, и не теряет оплаченный доступ. Исправлены пропавший фокус, двойные реплики в чате и подмена данных.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.0/YUNA-0.12.0.zip",
+      "sha256": "b91789b599f4f732fca4465c160995e1dcc9062302a63a86ee029e1c58d38ec5",
+      "size": 856640980,
+      "version": "0.12.0"
     }
-  }
+  },
+  "manifest_schema_version": 1,
+  "signature": "xVlscx0WEmnp6OJ2Ngy/AubXfq9YYWZwLzcpB32DhsJNRveROK4hXszjPQ9kMyWMYounVTb+3PKfFUYrO6ckAQ=="
 }
