@@ -3,13 +3,13 @@
     "beta": {
       "deltas": {
         "0.11.9": {
-          "sha256": "1dcf13dcb4fc98e77b2221af3cfceb7d115b4b92f89608575b0b12b79c1a90f8",
-          "size": 161936438,
+          "sha256": "e366eaa35310067606d52f2cc0cd3f20cd08622381c5c688a16879301fcbb5c7",
+          "size": 161936786,
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.11.9.zip"
         },
         "0.12.0": {
-          "sha256": "f08298e5d88a39c2c153f300c82599143a0dd077daae696b3bb7c37cb6894771",
-          "size": 60137770,
+          "sha256": "7f00c2e9ca5d197fbb5c9e1ec7c6b43ca788eddb69b1e242e3367d30d3d1281b",
+          "size": 60560803,
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.12.0.zip"
         }
       },
@@ -22,13 +22,13 @@
     "stable": {
       "deltas": {
         "0.11.9": {
-          "sha256": "1dcf13dcb4fc98e77b2221af3cfceb7d115b4b92f89608575b0b12b79c1a90f8",
-          "size": 161936438,
+          "sha256": "e366eaa35310067606d52f2cc0cd3f20cd08622381c5c688a16879301fcbb5c7",
+          "size": 161936786,
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.11.9.zip"
         },
         "0.12.0": {
-          "sha256": "f08298e5d88a39c2c153f300c82599143a0dd077daae696b3bb7c37cb6894771",
-          "size": 60137770,
+          "sha256": "7f00c2e9ca5d197fbb5c9e1ec7c6b43ca788eddb69b1e242e3367d30d3d1281b",
+          "size": 60560803,
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.12.0.zip"
         }
       },
@@ -40,5 +40,5 @@
     }
   },
   "manifest_schema_version": 1,
-  "signature": "j9CLxdpIQPadHCYGmXGe27gDwMSLg/CBSIFxx1OF2WZ0iQOeJlPw7uu2S9GDGZlL/VItn+2W5j9m3Ks8QyyCBA=="
+  "signature": "HBm7W7pSqjo99zZCNV62NosO+jXHkzVzZC7ox6utsuxcK6EAO3BT8J3W2YLDcoruczixDl1suHJrWI2aSFDYCA=="
 }
