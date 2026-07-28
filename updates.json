@@ -3,42 +3,52 @@
     "beta": {
       "deltas": {
         "0.12.0": {
-          "sha256": "129f717866083afd7d55a909f1dc7235be1b75dc9aa0594849b60af74bd771ae",
-          "size": 60630003,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.0.zip"
+          "sha256": "8ed13767b1cf4555f06a1e6e4b8338460e505c45d3bda81f6995fc6715c3b00b",
+          "size": 60629561,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.0.zip"
         },
         "0.12.1": {
-          "sha256": "ef0d9046ed18d9ca6a6318043d611256f646509264dcdc0779085eaa0d8c177e",
-          "size": 60630004,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.1.zip"
+          "sha256": "9dc18c5cc2edc9d510b782d47230f88c06cde86b6a957e8ced34aee1d35d5d7f",
+          "size": 60629561,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.1.zip"
+        },
+        "0.13.0": {
+          "sha256": "6782701b1e9c994472fb4d2128fe65c0c2de2b70b5b0ae5045ef206b697c73f3",
+          "size": 60575794,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.13.0.zip"
         }
       },
-      "notes": "«Включи музыку» больше не молчит, а пауза не срабатывает восемь раз подряд. Чат стал один: вкладки «Ассистент» и «ИИ-чат». Экраны перестали противоречить сами себе. Ответы не отстают от команд. Мастер даёт проверить микрофон и голос. Смена языка ответов, честная экономика гачи, доделанная светлая тема.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0.zip",
-      "sha256": "de5b859d1acf13e028c4dfba9d42ae137b06810bb89c72cba305a57bdfa26a77",
-      "size": 856663555,
-      "version": "0.13.0"
+      "notes": "Быстрое обновление больше не упирается в ошибку: если дельта не подошла, Юна молча берёт полный пакет.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1.zip",
+      "sha256": "0a6ff6ecff1b0026a244909fda651a1708d84b055e2b5aad41108dc0ca2f4be8",
+      "size": 856663110,
+      "version": "0.13.1"
     },
     "stable": {
       "deltas": {
         "0.12.0": {
-          "sha256": "129f717866083afd7d55a909f1dc7235be1b75dc9aa0594849b60af74bd771ae",
-          "size": 60630003,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.0.zip"
+          "sha256": "8ed13767b1cf4555f06a1e6e4b8338460e505c45d3bda81f6995fc6715c3b00b",
+          "size": 60629561,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.0.zip"
         },
         "0.12.1": {
-          "sha256": "ef0d9046ed18d9ca6a6318043d611256f646509264dcdc0779085eaa0d8c177e",
-          "size": 60630004,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.1.zip"
+          "sha256": "9dc18c5cc2edc9d510b782d47230f88c06cde86b6a957e8ced34aee1d35d5d7f",
+          "size": 60629561,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.1.zip"
+        },
+        "0.13.0": {
+          "sha256": "6782701b1e9c994472fb4d2128fe65c0c2de2b70b5b0ae5045ef206b697c73f3",
+          "size": 60575794,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.13.0.zip"
         }
       },
-      "notes": "«Включи музыку» больше не молчит, а пауза не срабатывает восемь раз подряд. Чат стал один: вкладки «Ассистент» и «ИИ-чат». Экраны перестали противоречить сами себе. Ответы не отстают от команд. Мастер даёт проверить микрофон и голос. Смена языка ответов, честная экономика гачи, доделанная светлая тема.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0.zip",
-      "sha256": "de5b859d1acf13e028c4dfba9d42ae137b06810bb89c72cba305a57bdfa26a77",
-      "size": 856663555,
-      "version": "0.13.0"
+      "notes": "Быстрое обновление больше не упирается в ошибку: если дельта не подошла, Юна молча берёт полный пакет.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1.zip",
+      "sha256": "0a6ff6ecff1b0026a244909fda651a1708d84b055e2b5aad41108dc0ca2f4be8",
+      "size": 856663110,
+      "version": "0.13.1"
     }
   },
   "manifest_schema_version": 1,
-  "signature": "O8Rfvjot0y1qe7vmItEXG/gbb3zMwjelwEyvwOqseZKkfEoHV4u0C8vhZ3+qdhBepAO74kMbTKNkUZ/jmVDDDg=="
+  "signature": "V1f1P9KHaZ3NpZl5iXdcLF3y1saCcydwhCAMjj8ub7KX/lG+S+vDen4hzYPnb3CI2YgDKd3FRQySQR2SSb0JDg=="
 }
