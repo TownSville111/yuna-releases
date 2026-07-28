@@ -2,53 +2,53 @@
   "channels": {
     "beta": {
       "deltas": {
-        "0.12.0": {
-          "sha256": "8ed13767b1cf4555f06a1e6e4b8338460e505c45d3bda81f6995fc6715c3b00b",
-          "size": 60629561,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.0.zip"
-        },
         "0.12.1": {
-          "sha256": "9dc18c5cc2edc9d510b782d47230f88c06cde86b6a957e8ced34aee1d35d5d7f",
-          "size": 60629561,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.1.zip"
+          "sha256": "0956c832fdb4d857d9af6e2a4a1d966984d4a62840f94bec9f49636fd50deae2",
+          "size": 64107536,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2-delta-from-0.12.1.zip"
         },
         "0.13.0": {
-          "sha256": "6782701b1e9c994472fb4d2128fe65c0c2de2b70b5b0ae5045ef206b697c73f3",
-          "size": 60575794,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.13.0.zip"
+          "sha256": "2cd81975f8c78d9c8a6511de567b94d7f89175c249fc57aaf99b5d7ccaa67850",
+          "size": 64053775,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2-delta-from-0.13.0.zip"
+        },
+        "0.13.1": {
+          "sha256": "2dd6aab794d4ac156e7d4123848820cec4a5e725c5865826fd324768c9a4986b",
+          "size": 63974305,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2-delta-from-0.13.1.zip"
         }
       },
-      "notes": "Быстрое обновление больше не упирается в ошибку: если дельта не подошла, Юна молча берёт полный пакет.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1.zip",
-      "sha256": "0a6ff6ecff1b0026a244909fda651a1708d84b055e2b5aad41108dc0ca2f4be8",
-      "size": 856663110,
-      "version": "0.13.1"
+      "notes": "Ярлык на рабочем столе больше не ломается после обновления. Если он уже сломан — Юна починит его при первом запуске.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2.zip",
+      "sha256": "d7188109c3d2a35861064cccb1ebae9b17431f74d7346bbde8b7594628b5f497",
+      "size": 860141071,
+      "version": "0.13.2"
     },
     "stable": {
       "deltas": {
-        "0.12.0": {
-          "sha256": "8ed13767b1cf4555f06a1e6e4b8338460e505c45d3bda81f6995fc6715c3b00b",
-          "size": 60629561,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.0.zip"
-        },
         "0.12.1": {
-          "sha256": "9dc18c5cc2edc9d510b782d47230f88c06cde86b6a957e8ced34aee1d35d5d7f",
-          "size": 60629561,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.12.1.zip"
+          "sha256": "0956c832fdb4d857d9af6e2a4a1d966984d4a62840f94bec9f49636fd50deae2",
+          "size": 64107536,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2-delta-from-0.12.1.zip"
         },
         "0.13.0": {
-          "sha256": "6782701b1e9c994472fb4d2128fe65c0c2de2b70b5b0ae5045ef206b697c73f3",
-          "size": 60575794,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1-delta-from-0.13.0.zip"
+          "sha256": "2cd81975f8c78d9c8a6511de567b94d7f89175c249fc57aaf99b5d7ccaa67850",
+          "size": 64053775,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2-delta-from-0.13.0.zip"
+        },
+        "0.13.1": {
+          "sha256": "2dd6aab794d4ac156e7d4123848820cec4a5e725c5865826fd324768c9a4986b",
+          "size": 63974305,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2-delta-from-0.13.1.zip"
         }
       },
-      "notes": "Быстрое обновление больше не упирается в ошибку: если дельта не подошла, Юна молча берёт полный пакет.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.1/YUNA-0.13.1.zip",
-      "sha256": "0a6ff6ecff1b0026a244909fda651a1708d84b055e2b5aad41108dc0ca2f4be8",
-      "size": 856663110,
-      "version": "0.13.1"
+      "notes": "Ярлык на рабочем столе больше не ломается после обновления. Если он уже сломан — Юна починит его при первом запуске.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.2/YUNA-0.13.2.zip",
+      "sha256": "d7188109c3d2a35861064cccb1ebae9b17431f74d7346bbde8b7594628b5f497",
+      "size": 860141071,
+      "version": "0.13.2"
     }
   },
   "manifest_schema_version": 1,
-  "signature": "V1f1P9KHaZ3NpZl5iXdcLF3y1saCcydwhCAMjj8ub7KX/lG+S+vDen4hzYPnb3CI2YgDKd3FRQySQR2SSb0JDg=="
+  "signature": "l0CioMKYVnbiOszi7Rret9fj3VJPr23uqqMUwhIVheW0+NVJP0saADcLbAescKjzGCkkKTCK7z5lbtwtmoILDA=="
 }
