@@ -2,43 +2,42 @@
   "channels": {
     "beta": {
       "deltas": {
-        "0.11.9": {
-          "sha256": "e366eaa35310067606d52f2cc0cd3f20cd08622381c5c688a16879301fcbb5c7",
-          "size": 161936786,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.11.9.zip"
-        },
         "0.12.0": {
-          "sha256": "7f00c2e9ca5d197fbb5c9e1ec7c6b43ca788eddb69b1e242e3367d30d3d1281b",
-          "size": 60560803,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.12.0.zip"
+          "sha256": "129f717866083afd7d55a909f1dc7235be1b75dc9aa0594849b60af74bd771ae",
+          "size": 60630003,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.0.zip"
+        },
+        "0.12.1": {
+          "sha256": "ef0d9046ed18d9ca6a6318043d611256f646509264dcdc0779085eaa0d8c177e",
+          "size": 60630004,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.1.zip"
         }
       },
-      "notes": "Исправлен пустой экран лаунчера из версии 0.12.0. Новый логотип, честный статус запуска, дельта-обновления и пакет легче почти на 400 МБ.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1.zip",
-      "sha256": "a5573904ca8124d33ce8e18ab108c3dfcfc70118d0790431caef6fc434492fc4",
-      "size": 856641408,
-      "version": "0.12.1"
+      "notes": "«Включи музыку» больше не молчит, а пауза не срабатывает восемь раз подряд. Чат стал один: вкладки «Ассистент» и «ИИ-чат». Экраны перестали противоречить сами себе. Ответы не отстают от команд. Мастер даёт проверить микрофон и голос. Смена языка ответов, честная экономика гачи, доделанная светлая тема.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0.zip",
+      "sha256": "de5b859d1acf13e028c4dfba9d42ae137b06810bb89c72cba305a57bdfa26a77",
+      "size": 856663555,
+      "version": "0.13.0"
     },
     "stable": {
       "deltas": {
-        "0.11.9": {
-          "sha256": "e366eaa35310067606d52f2cc0cd3f20cd08622381c5c688a16879301fcbb5c7",
-          "size": 161936786,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.11.9.zip"
-        },
         "0.12.0": {
-          "sha256": "7f00c2e9ca5d197fbb5c9e1ec7c6b43ca788eddb69b1e242e3367d30d3d1281b",
-          "size": 60560803,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1-delta-from-0.12.0.zip"
+          "sha256": "129f717866083afd7d55a909f1dc7235be1b75dc9aa0594849b60af74bd771ae",
+          "size": 60630003,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.0.zip"
+        },
+        "0.12.1": {
+          "sha256": "ef0d9046ed18d9ca6a6318043d611256f646509264dcdc0779085eaa0d8c177e",
+          "size": 60630004,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0-delta-from-0.12.1.zip"
         }
       },
-      "notes": "Исправлен пустой экран лаунчера из версии 0.12.0. Новый логотип, честный статус запуска, дельта-обновления и пакет легче почти на 400 МБ.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.12.1/YUNA-0.12.1.zip",
-      "sha256": "a5573904ca8124d33ce8e18ab108c3dfcfc70118d0790431caef6fc434492fc4",
-      "size": 856641408,
-      "version": "0.12.1"
+      "notes": "«Включи музыку» больше не молчит, а пауза не срабатывает восемь раз подряд. Чат стал один: вкладки «Ассистент» и «ИИ-чат». Экраны перестали противоречить сами себе. Ответы не отстают от команд. Мастер даёт проверить микрофон и голос. Смена языка ответов, честная экономика гачи, доделанная светлая тема.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.0/YUNA-0.13.0.zip",
+      "sha256": "de5b859d1acf13e028c4dfba9d42ae137b06810bb89c72cba305a57bdfa26a77",
+      "size": 856663555,
+      "version": "0.13.0"
     }
   },
-  "manifest_schema_version": 1,
-  "signature": "HBm7W7pSqjo99zZCNV62NosO+jXHkzVzZC7ox6utsuxcK6EAO3BT8J3W2YLDcoruczixDl1suHJrWI2aSFDYCA=="
+  "signature": "N3i1gI2NRMt2Bye29jmanOykQeBjyYDZ5Yf0UjHM/FD63D/Ar4LfrQOfR694gsXmw4LuxpPOFkQLl9HxkLvdCA=="
 }
