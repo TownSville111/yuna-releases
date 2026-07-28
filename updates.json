@@ -39,5 +39,6 @@
       "version": "0.13.0"
     }
   },
-  "signature": "N3i1gI2NRMt2Bye29jmanOykQeBjyYDZ5Yf0UjHM/FD63D/Ar4LfrQOfR694gsXmw4LuxpPOFkQLl9HxkLvdCA=="
+  "manifest_schema_version": 1,
+  "signature": "O8Rfvjot0y1qe7vmItEXG/gbb3zMwjelwEyvwOqseZKkfEoHV4u0C8vhZ3+qdhBepAO74kMbTKNkUZ/jmVDDDg=="
 }
