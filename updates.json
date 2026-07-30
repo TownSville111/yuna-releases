@@ -2,63 +2,63 @@
   "channels": {
     "beta": {
       "deltas": {
-        "0.13.0": {
-          "sha256": "c24734200ed0ffc50cf6017f50ff57398db8c18141a0f8424de03b340f513258",
-          "size": 64321522,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.0.zip"
-        },
         "0.13.1": {
-          "sha256": "d599b416b09e147b4b0eb4e8ef40004fca1653809cb2bb3f58844b5c49272438",
-          "size": 64321522,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.1.zip"
+          "sha256": "9a81443888a6e2c5d95548fee8a944ac5ba46aa9acb288814fef09ae6c033b08",
+          "size": 64345446,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.1.zip"
         },
         "0.13.2": {
-          "sha256": "1a9d6e358336fa79a3ba72d2ae7b396b5cebde7f8a02c8b49b12fe78ddb2653a",
-          "size": 61015075,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.2.zip"
+          "sha256": "be0ba54b43d7cc3749daada3409432a86ae06c571b31b61239cb6e4a745cf8d3",
+          "size": 61038990,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.2.zip"
         },
         "0.13.3": {
-          "sha256": "d96953a06dc9f6645779a0b02bc7019e2bc7b1408d5a726ea6e0da41e99d217a",
-          "size": 61012102,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.3.zip"
+          "sha256": "4c5f7b4da7c8298e26cb9d286b8bdcd60d6a18b2f3934d843b7ea37455dffddc",
+          "size": 61036027,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.3.zip"
+        },
+        "0.13.4": {
+          "sha256": "a9f5c1fd6241dde4b16576646ac4ac83e9498ed9943c59a3e32193326727912c",
+          "size": 60796725,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.4.zip"
         }
       },
-      "notes": "Новый вид лаунчера: один шрифт и один набор иконок вместо трёх вперемешку. Чат стал похож на переписку — время, отметка «доставлено», аватар Юны. Вход больше не спрашивают дважды.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4.zip",
-      "sha256": "36c1c3d66be1a77ed664a18bd75faffd15f864fed9247d3657cc0dc1f3dc2502",
-      "size": 858180227,
-      "version": "0.13.4"
+      "notes": "Юна отвечает быстрее: ответ приходит по мере набора, соединение переиспользуется. Главная разгружена, чат стал выше.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5.zip",
+      "sha256": "ffb9dc5e2a35cd0596d82657b5f64490b6b76e09f68b19058f4c1bc6a14fe6f6",
+      "size": 858194958,
+      "version": "0.13.5"
     },
     "stable": {
       "deltas": {
-        "0.13.0": {
-          "sha256": "c24734200ed0ffc50cf6017f50ff57398db8c18141a0f8424de03b340f513258",
-          "size": 64321522,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.0.zip"
-        },
         "0.13.1": {
-          "sha256": "d599b416b09e147b4b0eb4e8ef40004fca1653809cb2bb3f58844b5c49272438",
-          "size": 64321522,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.1.zip"
+          "sha256": "9a81443888a6e2c5d95548fee8a944ac5ba46aa9acb288814fef09ae6c033b08",
+          "size": 64345446,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.1.zip"
         },
         "0.13.2": {
-          "sha256": "1a9d6e358336fa79a3ba72d2ae7b396b5cebde7f8a02c8b49b12fe78ddb2653a",
-          "size": 61015075,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.2.zip"
+          "sha256": "be0ba54b43d7cc3749daada3409432a86ae06c571b31b61239cb6e4a745cf8d3",
+          "size": 61038990,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.2.zip"
         },
         "0.13.3": {
-          "sha256": "d96953a06dc9f6645779a0b02bc7019e2bc7b1408d5a726ea6e0da41e99d217a",
-          "size": 61012102,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.3.zip"
+          "sha256": "4c5f7b4da7c8298e26cb9d286b8bdcd60d6a18b2f3934d843b7ea37455dffddc",
+          "size": 61036027,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.3.zip"
+        },
+        "0.13.4": {
+          "sha256": "a9f5c1fd6241dde4b16576646ac4ac83e9498ed9943c59a3e32193326727912c",
+          "size": 60796725,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.4.zip"
         }
       },
-      "notes": "Новый вид лаунчера: один шрифт и один набор иконок вместо трёх вперемешку. Чат стал похож на переписку — время, отметка «доставлено», аватар Юны. Вход больше не спрашивают дважды.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4.zip",
-      "sha256": "36c1c3d66be1a77ed664a18bd75faffd15f864fed9247d3657cc0dc1f3dc2502",
-      "size": 858180227,
-      "version": "0.13.4"
+      "notes": "Юна отвечает быстрее: ответ приходит по мере набора, соединение переиспользуется. Главная разгружена, чат стал выше.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5.zip",
+      "sha256": "ffb9dc5e2a35cd0596d82657b5f64490b6b76e09f68b19058f4c1bc6a14fe6f6",
+      "size": 858194958,
+      "version": "0.13.5"
     }
   },
   "manifest_schema_version": 1,
-  "signature": "3PVih223wSVeLL1Id1Av6UNbRXvu8IV+XhM5RFXeuk0bXtykD8Vlf5MQjvrFT7D9uKkqP+Zxwxyn+EdgTYQLDg=="
+  "signature": "nPBuUDMgpusYblV1rIBJW3wiJ6HQGwuQQeq9HWU6cOEYKl5LCLdvZkkp/Eh6jBTuBKjr73gR46401miFu7BdDw=="
 }
