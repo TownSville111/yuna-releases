@@ -3,52 +3,62 @@
     "beta": {
       "deltas": {
         "0.13.0": {
-          "sha256": "52f34d1e1411ac7bbda3c23338c240c08a4b2a1e962ed11e74fc8f7ca9eb40b6",
-          "size": 64050993,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3-delta-from-0.13.0.zip"
+          "sha256": "c24734200ed0ffc50cf6017f50ff57398db8c18141a0f8424de03b340f513258",
+          "size": 64321522,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.0.zip"
         },
         "0.13.1": {
-          "sha256": "27dd5d0467a3ad8f9216d2c99cf4b43a0c712e10f3d847adaa8f11dd800f2731",
-          "size": 63971525,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3-delta-from-0.13.1.zip"
+          "sha256": "d599b416b09e147b4b0eb4e8ef40004fca1653809cb2bb3f58844b5c49272438",
+          "size": 64321522,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.1.zip"
         },
         "0.13.2": {
-          "sha256": "796130955c90dfe1b2e34a7d2d2db188a1d1643c961d81ca80dfd9906564c4ce",
-          "size": 60665072,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3-delta-from-0.13.2.zip"
+          "sha256": "1a9d6e358336fa79a3ba72d2ae7b396b5cebde7f8a02c8b49b12fe78ddb2653a",
+          "size": 61015075,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.2.zip"
+        },
+        "0.13.3": {
+          "sha256": "d96953a06dc9f6645779a0b02bc7019e2bc7b1408d5a726ea6e0da41e99d217a",
+          "size": 61012102,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.3.zip"
         }
       },
-      "notes": "Юна поумнела: новая модель отвечает содержательнее, особенно по учёбе. Больше не молчит в ответ и не произносит «None» вместо ответа. Формулы читаются нормально. Диагностика перестала пугать ложными ошибками.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3.zip",
-      "sha256": "179febc7fb70dd17262784bee53e7daa8e8ee5391ce279ee356e2690cf71ab87",
-      "size": 860135326,
-      "version": "0.13.3"
+      "notes": "Новый вид лаунчера: один шрифт и один набор иконок вместо трёх вперемешку. Чат стал похож на переписку — время, отметка «доставлено», аватар Юны. Вход больше не спрашивают дважды.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4.zip",
+      "sha256": "36c1c3d66be1a77ed664a18bd75faffd15f864fed9247d3657cc0dc1f3dc2502",
+      "size": 858180227,
+      "version": "0.13.4"
     },
     "stable": {
       "deltas": {
         "0.13.0": {
-          "sha256": "52f34d1e1411ac7bbda3c23338c240c08a4b2a1e962ed11e74fc8f7ca9eb40b6",
-          "size": 64050993,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3-delta-from-0.13.0.zip"
+          "sha256": "c24734200ed0ffc50cf6017f50ff57398db8c18141a0f8424de03b340f513258",
+          "size": 64321522,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.0.zip"
         },
         "0.13.1": {
-          "sha256": "27dd5d0467a3ad8f9216d2c99cf4b43a0c712e10f3d847adaa8f11dd800f2731",
-          "size": 63971525,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3-delta-from-0.13.1.zip"
+          "sha256": "d599b416b09e147b4b0eb4e8ef40004fca1653809cb2bb3f58844b5c49272438",
+          "size": 64321522,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.1.zip"
         },
         "0.13.2": {
-          "sha256": "796130955c90dfe1b2e34a7d2d2db188a1d1643c961d81ca80dfd9906564c4ce",
-          "size": 60665072,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3-delta-from-0.13.2.zip"
+          "sha256": "1a9d6e358336fa79a3ba72d2ae7b396b5cebde7f8a02c8b49b12fe78ddb2653a",
+          "size": 61015075,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.2.zip"
+        },
+        "0.13.3": {
+          "sha256": "d96953a06dc9f6645779a0b02bc7019e2bc7b1408d5a726ea6e0da41e99d217a",
+          "size": 61012102,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4-delta-from-0.13.3.zip"
         }
       },
-      "notes": "Юна поумнела: новая модель отвечает содержательнее, особенно по учёбе. Больше не молчит в ответ и не произносит «None» вместо ответа. Формулы читаются нормально. Диагностика перестала пугать ложными ошибками.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.3/YUNA-0.13.3.zip",
-      "sha256": "179febc7fb70dd17262784bee53e7daa8e8ee5391ce279ee356e2690cf71ab87",
-      "size": 860135326,
-      "version": "0.13.3"
+      "notes": "Новый вид лаунчера: один шрифт и один набор иконок вместо трёх вперемешку. Чат стал похож на переписку — время, отметка «доставлено», аватар Юны. Вход больше не спрашивают дважды.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.4/YUNA-0.13.4.zip",
+      "sha256": "36c1c3d66be1a77ed664a18bd75faffd15f864fed9247d3657cc0dc1f3dc2502",
+      "size": 858180227,
+      "version": "0.13.4"
     }
   },
   "manifest_schema_version": 1,
-  "signature": "Rgkq7/1us40kseFV3lH//4QKAn4TjvAhu8AZtsbNbFqENWIpOPDHkTq+UXw9M1GQluwcA0kOTzS8ExyOm3OnBg=="
+  "signature": "3PVih223wSVeLL1Id1Av6UNbRXvu8IV+XhM5RFXeuk0bXtykD8Vlf5MQjvrFT7D9uKkqP+Zxwxyn+EdgTYQLDg=="
 }
