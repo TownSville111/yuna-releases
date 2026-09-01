@@ -1,64 +1,29 @@
 {
   "channels": {
     "beta": {
-      "deltas": {
-        "0.13.1": {
-          "sha256": "9a81443888a6e2c5d95548fee8a944ac5ba46aa9acb288814fef09ae6c033b08",
-          "size": 64345446,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.1.zip"
-        },
-        "0.13.2": {
-          "sha256": "be0ba54b43d7cc3749daada3409432a86ae06c571b31b61239cb6e4a745cf8d3",
-          "size": 61038990,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.2.zip"
-        },
-        "0.13.3": {
-          "sha256": "4c5f7b4da7c8298e26cb9d286b8bdcd60d6a18b2f3934d843b7ea37455dffddc",
-          "size": 61036027,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.3.zip"
-        },
-        "0.13.4": {
-          "sha256": "a9f5c1fd6241dde4b16576646ac4ac83e9498ed9943c59a3e32193326727912c",
-          "size": 60796725,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.4.zip"
-        }
-      },
-      "notes": "Юна отвечает быстрее: ответ приходит по мере набора, соединение переиспользуется. Главная разгружена, чат стал выше.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5.zip",
-      "sha256": "ffb9dc5e2a35cd0596d82657b5f64490b6b76e09f68b19058f4c1bc6a14fe6f6",
-      "size": 858194958,
-      "version": "0.13.5"
+      "installer_name": "YunaSetup-0.14.0.exe",
+      "installer_sha256": "71410274d4f376aa4410f8ba0b3a72203b80693c63216f84769d5894a3a210ea",
+      "installer_size": 680877933,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YunaSetup-0.14.0.exe",
+      "notes": "Бета-релиз 1 сентября: новый режим напарника и живая как доп.услуга, стикеры, пульт с телефона, устойчивость сервера.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YUNA-0.14.0.zip",
+      "sha256": "3ec4fd1dad11bb8a45fa8d8254b0eb67d2101b2041bebf8efe392a794e10a7e0",
+      "size": 819722463,
+      "version": "0.14.0"
     },
     "stable": {
-      "deltas": {
-        "0.13.1": {
-          "sha256": "9a81443888a6e2c5d95548fee8a944ac5ba46aa9acb288814fef09ae6c033b08",
-          "size": 64345446,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.1.zip"
-        },
-        "0.13.2": {
-          "sha256": "be0ba54b43d7cc3749daada3409432a86ae06c571b31b61239cb6e4a745cf8d3",
-          "size": 61038990,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.2.zip"
-        },
-        "0.13.3": {
-          "sha256": "4c5f7b4da7c8298e26cb9d286b8bdcd60d6a18b2f3934d843b7ea37455dffddc",
-          "size": 61036027,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.3.zip"
-        },
-        "0.13.4": {
-          "sha256": "a9f5c1fd6241dde4b16576646ac4ac83e9498ed9943c59a3e32193326727912c",
-          "size": 60796725,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5-delta-from-0.13.4.zip"
-        }
-      },
-      "notes": "Юна отвечает быстрее: ответ приходит по мере набора, соединение переиспользуется. Главная разгружена, чат стал выше.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.13.5/YUNA-0.13.5.zip",
-      "sha256": "ffb9dc5e2a35cd0596d82657b5f64490b6b76e09f68b19058f4c1bc6a14fe6f6",
-      "size": 858194958,
-      "version": "0.13.5"
+      "installer_name": "YunaSetup-0.14.0.exe",
+      "installer_sha256": "71410274d4f376aa4410f8ba0b3a72203b80693c63216f84769d5894a3a210ea",
+      "installer_size": 680877933,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YunaSetup-0.14.0.exe",
+      "notes": "Бета-релиз 1 сентября: новый режим напарника и живая как доп.услуга, стикеры, пульт с телефона, устойчивость сервера.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YUNA-0.14.0.zip",
+      "sha256": "3ec4fd1dad11bb8a45fa8d8254b0eb67d2101b2041bebf8efe392a794e10a7e0",
+      "size": 819722463,
+      "version": "0.14.0"
     }
   },
+  "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "nPBuUDMgpusYblV1rIBJW3wiJ6HQGwuQQeq9HWU6cOEYKl5LCLdvZkkp/Eh6jBTuBKjr73gR46401miFu7BdDw=="
+  "signature": "KpxCVRMEMDEFt3UHNeQPeLxpBuqvKMac2WlZO6aHrGYoymPb/UhQUkO1bEITh4A2AuKkQ3uZ2rpgv3rBE/VVDQ=="
 }
