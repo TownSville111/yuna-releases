@@ -3,41 +3,51 @@
     "beta": {
       "deltas": {
         "0.14.0": {
-          "sha256": "85cd6c6f29c541e0fcdf7bf959598c087e40da4030ac2894b5676938a71b90a0",
-          "size": 45641282,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1-delta-from-0.14.0.zip"
+          "sha256": "226c06b0331a449abbe5835e794536d7d94bafd7cc699e16d7bb01b2c0319561",
+          "size": 45641606,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.0.zip"
+        },
+        "0.14.1": {
+          "sha256": "21750973e01f80202e9f77ede80308fecb1b478b2e1a4f609e55dc8f0b6c07b3",
+          "size": 45480846,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.1.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.1.exe",
-      "installer_sha256": "116e3cab8ba960c3889345c1784fdb7115e482e4087be1ec081cda8ffa6d2d5e",
-      "installer_size": 680930771,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YunaSetup-0.14.1.exe",
-      "notes": "Напарник включается с первого раза: раньше включённый режим до работающей Юны не доезжал, и помогал только перезапуск. Юна больше не пропадает с экрана, когда на него смотрит. Скрытую со стола модельку можно вернуть. Уведомления теперь слышно, а на обращение в поддержку приходит ответ прямо в Юну. Длинный ответ она начинает произносить раньше.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1.zip",
-      "sha256": "bf6cdb98beb05fe42a3d7a45281d8d47f813eea945040fd1df624e89fea83a6b",
-      "size": 819787876,
-      "version": "0.14.1"
+      "installer_name": "YunaSetup-0.14.2.exe",
+      "installer_sha256": "ddba49670ab523799e8c85a2cbc7a6f69a965db032fafbe18b04cc386e67c592",
+      "installer_size": 680944053,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YunaSetup-0.14.2.exe",
+      "notes": "Чинит само обновление: у первого же человека оно скачалось, Юна перезапустилась - и осталась на прежней версии. Подменять файлы мешал живой процесс самой Юны: при выходе лаунчера её ядро и понималка продолжают работать, а гасилась только фигурка. Теперь гасятся все, каждый шаг повторяется, и занятый файл называется в журнале.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2.zip",
+      "sha256": "aaa419f55a9362e496c4852dcc38658436ca05a191e726fbd89a5b2916c76d4d",
+      "size": 819788197,
+      "version": "0.14.2"
     },
     "stable": {
       "deltas": {
         "0.14.0": {
-          "sha256": "85cd6c6f29c541e0fcdf7bf959598c087e40da4030ac2894b5676938a71b90a0",
-          "size": 45641282,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1-delta-from-0.14.0.zip"
+          "sha256": "226c06b0331a449abbe5835e794536d7d94bafd7cc699e16d7bb01b2c0319561",
+          "size": 45641606,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.0.zip"
+        },
+        "0.14.1": {
+          "sha256": "21750973e01f80202e9f77ede80308fecb1b478b2e1a4f609e55dc8f0b6c07b3",
+          "size": 45480846,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.1.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.1.exe",
-      "installer_sha256": "116e3cab8ba960c3889345c1784fdb7115e482e4087be1ec081cda8ffa6d2d5e",
-      "installer_size": 680930771,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YunaSetup-0.14.1.exe",
-      "notes": "Напарник включается с первого раза: раньше включённый режим до работающей Юны не доезжал, и помогал только перезапуск. Юна больше не пропадает с экрана, когда на него смотрит. Скрытую со стола модельку можно вернуть. Уведомления теперь слышно, а на обращение в поддержку приходит ответ прямо в Юну. Длинный ответ она начинает произносить раньше.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1.zip",
-      "sha256": "bf6cdb98beb05fe42a3d7a45281d8d47f813eea945040fd1df624e89fea83a6b",
-      "size": 819787876,
-      "version": "0.14.1"
+      "installer_name": "YunaSetup-0.14.2.exe",
+      "installer_sha256": "ddba49670ab523799e8c85a2cbc7a6f69a965db032fafbe18b04cc386e67c592",
+      "installer_size": 680944053,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YunaSetup-0.14.2.exe",
+      "notes": "Чинит само обновление: у первого же человека оно скачалось, Юна перезапустилась - и осталась на прежней версии. Подменять файлы мешал живой процесс самой Юны: при выходе лаунчера её ядро и понималка продолжают работать, а гасилась только фигурка. Теперь гасятся все, каждый шаг повторяется, и занятый файл называется в журнале.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2.zip",
+      "sha256": "aaa419f55a9362e496c4852dcc38658436ca05a191e726fbd89a5b2916c76d4d",
+      "size": 819788197,
+      "version": "0.14.2"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "yt6g9YeoEX20ktXwtIHisbpQ2PlLlIrq4oHgOh3HMA61D+diTKEEzVRirvvEIo6oOIy48AwBlFdzdOn8aVTfCA=="
+  "signature": "KdkgPROtLCGLlwGxlb7BJHvfHMZvdDjP/+zcEVYi80crul5sZanDSi7eiVeU4KOwjz+2vZyFrgVH7P8NM2TXCg=="
 }
