@@ -1,29 +1,43 @@
 {
   "channels": {
     "beta": {
-      "installer_name": "YunaSetup-0.14.0.exe",
-      "installer_sha256": "71410274d4f376aa4410f8ba0b3a72203b80693c63216f84769d5894a3a210ea",
-      "installer_size": 680877933,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YunaSetup-0.14.0.exe",
-      "notes": "Бета-релиз 1 сентября: новый режим напарника и живая как доп.услуга, стикеры, пульт с телефона, устойчивость сервера.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YUNA-0.14.0.zip",
-      "sha256": "3ec4fd1dad11bb8a45fa8d8254b0eb67d2101b2041bebf8efe392a794e10a7e0",
-      "size": 819722463,
-      "version": "0.14.0"
+      "deltas": {
+        "0.14.0": {
+          "sha256": "85cd6c6f29c541e0fcdf7bf959598c087e40da4030ac2894b5676938a71b90a0",
+          "size": 45641282,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1-delta-from-0.14.0.zip"
+        }
+      },
+      "installer_name": "YunaSetup-0.14.1.exe",
+      "installer_sha256": "116e3cab8ba960c3889345c1784fdb7115e482e4087be1ec081cda8ffa6d2d5e",
+      "installer_size": 680930771,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YunaSetup-0.14.1.exe",
+      "notes": "Напарник включается с первого раза: раньше включённый режим до работающей Юны не доезжал, и помогал только перезапуск. Юна больше не пропадает с экрана, когда на него смотрит. Скрытую со стола модельку можно вернуть. Уведомления теперь слышно, а на обращение в поддержку приходит ответ прямо в Юну. Длинный ответ она начинает произносить раньше.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1.zip",
+      "sha256": "bf6cdb98beb05fe42a3d7a45281d8d47f813eea945040fd1df624e89fea83a6b",
+      "size": 819787876,
+      "version": "0.14.1"
     },
     "stable": {
-      "installer_name": "YunaSetup-0.14.0.exe",
-      "installer_sha256": "71410274d4f376aa4410f8ba0b3a72203b80693c63216f84769d5894a3a210ea",
-      "installer_size": 680877933,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YunaSetup-0.14.0.exe",
-      "notes": "Бета-релиз 1 сентября: новый режим напарника и живая как доп.услуга, стикеры, пульт с телефона, устойчивость сервера.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.0/YUNA-0.14.0.zip",
-      "sha256": "3ec4fd1dad11bb8a45fa8d8254b0eb67d2101b2041bebf8efe392a794e10a7e0",
-      "size": 819722463,
-      "version": "0.14.0"
+      "deltas": {
+        "0.14.0": {
+          "sha256": "85cd6c6f29c541e0fcdf7bf959598c087e40da4030ac2894b5676938a71b90a0",
+          "size": 45641282,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1-delta-from-0.14.0.zip"
+        }
+      },
+      "installer_name": "YunaSetup-0.14.1.exe",
+      "installer_sha256": "116e3cab8ba960c3889345c1784fdb7115e482e4087be1ec081cda8ffa6d2d5e",
+      "installer_size": 680930771,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YunaSetup-0.14.1.exe",
+      "notes": "Напарник включается с первого раза: раньше включённый режим до работающей Юны не доезжал, и помогал только перезапуск. Юна больше не пропадает с экрана, когда на него смотрит. Скрытую со стола модельку можно вернуть. Уведомления теперь слышно, а на обращение в поддержку приходит ответ прямо в Юну. Длинный ответ она начинает произносить раньше.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.1/YUNA-0.14.1.zip",
+      "sha256": "bf6cdb98beb05fe42a3d7a45281d8d47f813eea945040fd1df624e89fea83a6b",
+      "size": 819787876,
+      "version": "0.14.1"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "KpxCVRMEMDEFt3UHNeQPeLxpBuqvKMac2WlZO6aHrGYoymPb/UhQUkO1bEITh4A2AuKkQ3uZ2rpgv3rBE/VVDQ=="
+  "signature": "yt6g9YeoEX20ktXwtIHisbpQ2PlLlIrq4oHgOh3HMA61D+diTKEEzVRirvvEIo6oOIy48AwBlFdzdOn8aVTfCA=="
 }
