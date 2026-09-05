@@ -3,51 +3,61 @@
     "beta": {
       "deltas": {
         "0.14.0": {
-          "sha256": "226c06b0331a449abbe5835e794536d7d94bafd7cc699e16d7bb01b2c0319561",
-          "size": 45641606,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.0.zip"
+          "sha256": "77ff46d3bbe32cdbfea147a765df8c2364100aff516527fb125da2924f151834",
+          "size": 46046354,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "21750973e01f80202e9f77ede80308fecb1b478b2e1a4f609e55dc8f0b6c07b3",
-          "size": 45480846,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.1.zip"
+          "sha256": "d6e2e06fa1a33fa77b41d49f5db715e7dd47d3e07903a2f1a457a370b39c7e7a",
+          "size": 46012421,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.1.zip"
+        },
+        "0.14.2": {
+          "sha256": "37f196f90433c2642f199e5555e54e490b937c10944168af174b35ac9516fc57",
+          "size": 46012421,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.2.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.2.exe",
-      "installer_sha256": "ddba49670ab523799e8c85a2cbc7a6f69a965db032fafbe18b04cc386e67c592",
-      "installer_size": 680944053,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YunaSetup-0.14.2.exe",
-      "notes": "Чинит само обновление: у первого же человека оно скачалось, Юна перезапустилась - и осталась на прежней версии. Подменять файлы мешал живой процесс самой Юны: при выходе лаунчера её ядро и понималка продолжают работать, а гасилась только фигурка. Теперь гасятся все, каждый шаг повторяется, и занятый файл называется в журнале.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2.zip",
-      "sha256": "aaa419f55a9362e496c4852dcc38658436ca05a191e726fbd89a5b2916c76d4d",
-      "size": 819788197,
-      "version": "0.14.2"
+      "installer_name": "YunaSetup-0.14.3.exe",
+      "installer_sha256": "3803576365ea9adfc70dfe2bab4f7ecc1f40bc67172057184c34c428baa2028e",
+      "installer_size": 680986990,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YunaSetup-0.14.3.exe",
+      "notes": "Юна больше не мешает играть. Пока идёт полноэкранная игра, она перестаёт рисовать фигурку и уступает процессор игре, а слышать и отвечать не перестаёт. В настройках появился выбор плавности фигурки. На Главной теперь видно, смотрит ли она на экран и чего не хватает, если нет. При первом запуске спрашивают, включать ли взгляд на экран. Пробный период стал три дня вместо одного.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3.zip",
+      "sha256": "11f637b60e6cb2ec4f09f7535ff3842de8c922e943852888296c2f256494866d",
+      "size": 819842607,
+      "version": "0.14.3"
     },
     "stable": {
       "deltas": {
         "0.14.0": {
-          "sha256": "226c06b0331a449abbe5835e794536d7d94bafd7cc699e16d7bb01b2c0319561",
-          "size": 45641606,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.0.zip"
+          "sha256": "77ff46d3bbe32cdbfea147a765df8c2364100aff516527fb125da2924f151834",
+          "size": 46046354,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "21750973e01f80202e9f77ede80308fecb1b478b2e1a4f609e55dc8f0b6c07b3",
-          "size": 45480846,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2-delta-from-0.14.1.zip"
+          "sha256": "d6e2e06fa1a33fa77b41d49f5db715e7dd47d3e07903a2f1a457a370b39c7e7a",
+          "size": 46012421,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.1.zip"
+        },
+        "0.14.2": {
+          "sha256": "37f196f90433c2642f199e5555e54e490b937c10944168af174b35ac9516fc57",
+          "size": 46012421,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.2.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.2.exe",
-      "installer_sha256": "ddba49670ab523799e8c85a2cbc7a6f69a965db032fafbe18b04cc386e67c592",
-      "installer_size": 680944053,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YunaSetup-0.14.2.exe",
-      "notes": "Чинит само обновление: у первого же человека оно скачалось, Юна перезапустилась - и осталась на прежней версии. Подменять файлы мешал живой процесс самой Юны: при выходе лаунчера её ядро и понималка продолжают работать, а гасилась только фигурка. Теперь гасятся все, каждый шаг повторяется, и занятый файл называется в журнале.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.2/YUNA-0.14.2.zip",
-      "sha256": "aaa419f55a9362e496c4852dcc38658436ca05a191e726fbd89a5b2916c76d4d",
-      "size": 819788197,
-      "version": "0.14.2"
+      "installer_name": "YunaSetup-0.14.3.exe",
+      "installer_sha256": "3803576365ea9adfc70dfe2bab4f7ecc1f40bc67172057184c34c428baa2028e",
+      "installer_size": 680986990,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YunaSetup-0.14.3.exe",
+      "notes": "Юна больше не мешает играть. Пока идёт полноэкранная игра, она перестаёт рисовать фигурку и уступает процессор игре, а слышать и отвечать не перестаёт. В настройках появился выбор плавности фигурки. На Главной теперь видно, смотрит ли она на экран и чего не хватает, если нет. При первом запуске спрашивают, включать ли взгляд на экран. Пробный период стал три дня вместо одного.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3.zip",
+      "sha256": "11f637b60e6cb2ec4f09f7535ff3842de8c922e943852888296c2f256494866d",
+      "size": 819842607,
+      "version": "0.14.3"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "KdkgPROtLCGLlwGxlb7BJHvfHMZvdDjP/+zcEVYi80crul5sZanDSi7eiVeU4KOwjz+2vZyFrgVH7P8NM2TXCg=="
+  "signature": "vjXDR3l9HghrHAIJBGkbtobXqBJRQ0QCs+jj3efdI1fKP1ECNGLMKgKZtU/v6GRHhqnaDZxbwOsqKaFXoQfcCA=="
 }
