@@ -1,23 +1,6 @@
 {
   "channels": {
     "beta": {
-      "deltas": {
-        "0.14.0": {
-          "sha256": "77ff46d3bbe32cdbfea147a765df8c2364100aff516527fb125da2924f151834",
-          "size": 46046354,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.0.zip"
-        },
-        "0.14.1": {
-          "sha256": "d6e2e06fa1a33fa77b41d49f5db715e7dd47d3e07903a2f1a457a370b39c7e7a",
-          "size": 46012421,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.1.zip"
-        },
-        "0.14.2": {
-          "sha256": "37f196f90433c2642f199e5555e54e490b937c10944168af174b35ac9516fc57",
-          "size": 46012421,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.2.zip"
-        }
-      },
       "installer_name": "YunaSetup-0.14.3.exe",
       "installer_sha256": "3803576365ea9adfc70dfe2bab4f7ecc1f40bc67172057184c34c428baa2028e",
       "installer_size": 680986990,
@@ -29,23 +12,6 @@
       "version": "0.14.3"
     },
     "stable": {
-      "deltas": {
-        "0.14.0": {
-          "sha256": "77ff46d3bbe32cdbfea147a765df8c2364100aff516527fb125da2924f151834",
-          "size": 46046354,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.0.zip"
-        },
-        "0.14.1": {
-          "sha256": "d6e2e06fa1a33fa77b41d49f5db715e7dd47d3e07903a2f1a457a370b39c7e7a",
-          "size": 46012421,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.1.zip"
-        },
-        "0.14.2": {
-          "sha256": "37f196f90433c2642f199e5555e54e490b937c10944168af174b35ac9516fc57",
-          "size": 46012421,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3-delta-from-0.14.2.zip"
-        }
-      },
       "installer_name": "YunaSetup-0.14.3.exe",
       "installer_sha256": "3803576365ea9adfc70dfe2bab4f7ecc1f40bc67172057184c34c428baa2028e",
       "installer_size": 680986990,
@@ -59,5 +25,5 @@
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "vjXDR3l9HghrHAIJBGkbtobXqBJRQ0QCs+jj3efdI1fKP1ECNGLMKgKZtU/v6GRHhqnaDZxbwOsqKaFXoQfcCA=="
+  "signature": "2fliGqj8UrBFtE9OK9EcS9qQerWuaU2skKtGMe6MEPqoQ8s5cWG08wuuALQ+i7RzRpqz5Gyq9iglWrIwXXNlCA=="
 }
