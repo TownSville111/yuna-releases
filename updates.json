@@ -1,29 +1,73 @@
 {
   "channels": {
     "beta": {
-      "installer_name": "YunaSetup-0.14.3.exe",
-      "installer_sha256": "3803576365ea9adfc70dfe2bab4f7ecc1f40bc67172057184c34c428baa2028e",
-      "installer_size": 680986990,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YunaSetup-0.14.3.exe",
-      "notes": "Юна больше не мешает играть. Пока идёт полноэкранная игра, она перестаёт рисовать фигурку и уступает процессор игре, а слышать и отвечать не перестаёт. В настройках появился выбор плавности фигурки. На Главной теперь видно, смотрит ли она на экран и чего не хватает, если нет. При первом запуске спрашивают, включать ли взгляд на экран. Пробный период стал три дня вместо одного.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3.zip",
-      "sha256": "11f637b60e6cb2ec4f09f7535ff3842de8c922e943852888296c2f256494866d",
-      "size": 819842607,
-      "version": "0.14.3"
+      "deltas": {
+        "0.14.0": {
+          "sha256": "682150f379ba19dcd99f69e0bce2222586cdc3d752ea86ce40b0f0a407be11eb",
+          "size": 46052621,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.0.zip"
+        },
+        "0.14.1": {
+          "sha256": "e9e200bb40f450c1da85629015974f7e965f76d4e101b05392b80700c8a33827",
+          "size": 46022503,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.1.zip"
+        },
+        "0.14.2": {
+          "sha256": "17c6f6ed29c5f28057018dc8f5aee8afe58eafca09502300256b3768b2bf9523",
+          "size": 46022503,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.2.zip"
+        },
+        "0.14.3": {
+          "sha256": "866715bf6190493ba9303caf1f7e6f9ff155155252dad7851b4c7678e05cfdfb",
+          "size": 45529944,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.3.zip"
+        }
+      },
+      "installer_name": "YunaSetup-0.14.4.exe",
+      "installer_sha256": "98cc24b66c5e286809ef671de9b16ef938e4f73f8a95dd111034d0c8659b0d7d",
+      "installer_size": 680995749,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YunaSetup-0.14.4.exe",
+      "notes": "Починены обновления. Раньше Юна скачивала обновление, перезапускалась - и оставалась на прежней версии, а в журнале стояло «файл занят другим процессом», хотя никто ничего не держал. Теперь быстрое обновление доезжает до конца. Всё остальное из 0.14.3 на месте: игровой режим, плавность фигурки и плашка «смотрю на экран» на Главной.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4.zip",
+      "sha256": "c317144b00e67b66c6d66db2e3c06a52a0f918c9a9401cbb517bdc047fd328a2",
+      "size": 819848387,
+      "version": "0.14.4"
     },
     "stable": {
-      "installer_name": "YunaSetup-0.14.3.exe",
-      "installer_sha256": "3803576365ea9adfc70dfe2bab4f7ecc1f40bc67172057184c34c428baa2028e",
-      "installer_size": 680986990,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YunaSetup-0.14.3.exe",
-      "notes": "Юна больше не мешает играть. Пока идёт полноэкранная игра, она перестаёт рисовать фигурку и уступает процессор игре, а слышать и отвечать не перестаёт. В настройках появился выбор плавности фигурки. На Главной теперь видно, смотрит ли она на экран и чего не хватает, если нет. При первом запуске спрашивают, включать ли взгляд на экран. Пробный период стал три дня вместо одного.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.3/YUNA-0.14.3.zip",
-      "sha256": "11f637b60e6cb2ec4f09f7535ff3842de8c922e943852888296c2f256494866d",
-      "size": 819842607,
-      "version": "0.14.3"
+      "deltas": {
+        "0.14.0": {
+          "sha256": "682150f379ba19dcd99f69e0bce2222586cdc3d752ea86ce40b0f0a407be11eb",
+          "size": 46052621,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.0.zip"
+        },
+        "0.14.1": {
+          "sha256": "e9e200bb40f450c1da85629015974f7e965f76d4e101b05392b80700c8a33827",
+          "size": 46022503,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.1.zip"
+        },
+        "0.14.2": {
+          "sha256": "17c6f6ed29c5f28057018dc8f5aee8afe58eafca09502300256b3768b2bf9523",
+          "size": 46022503,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.2.zip"
+        },
+        "0.14.3": {
+          "sha256": "866715bf6190493ba9303caf1f7e6f9ff155155252dad7851b4c7678e05cfdfb",
+          "size": 45529944,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.3.zip"
+        }
+      },
+      "installer_name": "YunaSetup-0.14.4.exe",
+      "installer_sha256": "98cc24b66c5e286809ef671de9b16ef938e4f73f8a95dd111034d0c8659b0d7d",
+      "installer_size": 680995749,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YunaSetup-0.14.4.exe",
+      "notes": "Починены обновления. Раньше Юна скачивала обновление, перезапускалась - и оставалась на прежней версии, а в журнале стояло «файл занят другим процессом», хотя никто ничего не держал. Теперь быстрое обновление доезжает до конца. Всё остальное из 0.14.3 на месте: игровой режим, плавность фигурки и плашка «смотрю на экран» на Главной.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4.zip",
+      "sha256": "c317144b00e67b66c6d66db2e3c06a52a0f918c9a9401cbb517bdc047fd328a2",
+      "size": 819848387,
+      "version": "0.14.4"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "2fliGqj8UrBFtE9OK9EcS9qQerWuaU2skKtGMe6MEPqoQ8s5cWG08wuuALQ+i7RzRpqz5Gyq9iglWrIwXXNlCA=="
+  "signature": "SLAQJGsHkRFIHR1VR5vtg3/KBIy2aCSTUPJ+Ve3j7TVY5kVJa38EEDxiANXucwlUn74Vat3i/HqM1NIGL6AdBQ=="
 }
