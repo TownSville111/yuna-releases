@@ -3,71 +3,81 @@
     "beta": {
       "deltas": {
         "0.14.0": {
-          "sha256": "682150f379ba19dcd99f69e0bce2222586cdc3d752ea86ce40b0f0a407be11eb",
-          "size": 46052621,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.0.zip"
+          "sha256": "c41abf0bfd680f5a4d2e3f18e57a5ea134cd98735dec5dc7893464dcbf333120",
+          "size": 196641779,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "e9e200bb40f450c1da85629015974f7e965f76d4e101b05392b80700c8a33827",
-          "size": 46022503,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.1.zip"
+          "sha256": "599d7627517657754a7abdc9f57ade48e5fe214b24af9fc2594c321530f3b1f0",
+          "size": 196615478,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.1.zip"
         },
         "0.14.2": {
-          "sha256": "17c6f6ed29c5f28057018dc8f5aee8afe58eafca09502300256b3768b2bf9523",
-          "size": 46022503,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.2.zip"
+          "sha256": "6b9728ed9cba05b164870c67b6c4642ca0a2d99892f6ff00b0d4a2eda7c163ec",
+          "size": 196615477,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.2.zip"
         },
         "0.14.3": {
-          "sha256": "866715bf6190493ba9303caf1f7e6f9ff155155252dad7851b4c7678e05cfdfb",
-          "size": 45529944,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.3.zip"
+          "sha256": "321409a408ff25afd0da21f0ae51ebb70deea08820d808d356dcd83e06739476",
+          "size": 196533170,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.3.zip"
+        },
+        "0.14.4": {
+          "sha256": "f2c9e1636b7325d0e6efd5e98926060283705bea2e03e591643b1c1450ed0ca5",
+          "size": 196533170,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.4.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.4.exe",
-      "installer_sha256": "98cc24b66c5e286809ef671de9b16ef938e4f73f8a95dd111034d0c8659b0d7d",
-      "installer_size": 680995749,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YunaSetup-0.14.4.exe",
-      "notes": "Починены обновления. Раньше Юна скачивала обновление, перезапускалась - и оставалась на прежней версии, а в журнале стояло «файл занят другим процессом», хотя никто ничего не держал. Теперь быстрое обновление доезжает до конца. Всё остальное из 0.14.3 на месте: игровой режим, плавность фигурки и плашка «смотрю на экран» на Главной.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4.zip",
-      "sha256": "c317144b00e67b66c6d66db2e3c06a52a0f918c9a9401cbb517bdc047fd328a2",
-      "size": 819848387,
-      "version": "0.14.4"
+      "installer_name": "YunaSetup-0.14.5.exe",
+      "installer_sha256": "813d6627a3355b535f50326f1d4cf2c2e98768c779080fd5b4802e8aacdb9db0",
+      "installer_size": 685158438,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YunaSetup-0.14.5.exe",
+      "notes": "Настройки наконец применяются - и сразу, без перезапуска: голос, речь, характер и стиль общения. Раньше выбор мог вообще потеряться. «Следующий трек» переключает следующий, а не ставит текущий заново, и «предыдущий» тоже работает. «Разрешить мат» теперь действует везде - и в командах, и в разговоре, - а ругается Юна разными словами, а не одним. Реплики видно прямо на рабочем столе, пузырём над её головой. Свой ключ OpenRouter можно вписать и с подпиской, и убрать обратно одной кнопкой. Подписка не теряется, если войти другим способом: Яндекс и Telegram ведут в один аккаунт.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5.zip",
+      "sha256": "d9cf8369c2a5b7ee1fb3e9b6a6a3a68852b3702b1d16ad396af25172be643b74",
+      "size": 824742746,
+      "version": "0.14.5"
     },
     "stable": {
       "deltas": {
         "0.14.0": {
-          "sha256": "682150f379ba19dcd99f69e0bce2222586cdc3d752ea86ce40b0f0a407be11eb",
-          "size": 46052621,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.0.zip"
+          "sha256": "c41abf0bfd680f5a4d2e3f18e57a5ea134cd98735dec5dc7893464dcbf333120",
+          "size": 196641779,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "e9e200bb40f450c1da85629015974f7e965f76d4e101b05392b80700c8a33827",
-          "size": 46022503,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.1.zip"
+          "sha256": "599d7627517657754a7abdc9f57ade48e5fe214b24af9fc2594c321530f3b1f0",
+          "size": 196615478,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.1.zip"
         },
         "0.14.2": {
-          "sha256": "17c6f6ed29c5f28057018dc8f5aee8afe58eafca09502300256b3768b2bf9523",
-          "size": 46022503,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.2.zip"
+          "sha256": "6b9728ed9cba05b164870c67b6c4642ca0a2d99892f6ff00b0d4a2eda7c163ec",
+          "size": 196615477,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.2.zip"
         },
         "0.14.3": {
-          "sha256": "866715bf6190493ba9303caf1f7e6f9ff155155252dad7851b4c7678e05cfdfb",
-          "size": 45529944,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4-delta-from-0.14.3.zip"
+          "sha256": "321409a408ff25afd0da21f0ae51ebb70deea08820d808d356dcd83e06739476",
+          "size": 196533170,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.3.zip"
+        },
+        "0.14.4": {
+          "sha256": "f2c9e1636b7325d0e6efd5e98926060283705bea2e03e591643b1c1450ed0ca5",
+          "size": 196533170,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.4.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.4.exe",
-      "installer_sha256": "98cc24b66c5e286809ef671de9b16ef938e4f73f8a95dd111034d0c8659b0d7d",
-      "installer_size": 680995749,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YunaSetup-0.14.4.exe",
-      "notes": "Починены обновления. Раньше Юна скачивала обновление, перезапускалась - и оставалась на прежней версии, а в журнале стояло «файл занят другим процессом», хотя никто ничего не держал. Теперь быстрое обновление доезжает до конца. Всё остальное из 0.14.3 на месте: игровой режим, плавность фигурки и плашка «смотрю на экран» на Главной.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.4/YUNA-0.14.4.zip",
-      "sha256": "c317144b00e67b66c6d66db2e3c06a52a0f918c9a9401cbb517bdc047fd328a2",
-      "size": 819848387,
-      "version": "0.14.4"
+      "installer_name": "YunaSetup-0.14.5.exe",
+      "installer_sha256": "813d6627a3355b535f50326f1d4cf2c2e98768c779080fd5b4802e8aacdb9db0",
+      "installer_size": 685158438,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YunaSetup-0.14.5.exe",
+      "notes": "Настройки наконец применяются - и сразу, без перезапуска: голос, речь, характер и стиль общения. Раньше выбор мог вообще потеряться. «Следующий трек» переключает следующий, а не ставит текущий заново, и «предыдущий» тоже работает. «Разрешить мат» теперь действует везде - и в командах, и в разговоре, - а ругается Юна разными словами, а не одним. Реплики видно прямо на рабочем столе, пузырём над её головой. Свой ключ OpenRouter можно вписать и с подпиской, и убрать обратно одной кнопкой. Подписка не теряется, если войти другим способом: Яндекс и Telegram ведут в один аккаунт.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5.zip",
+      "sha256": "d9cf8369c2a5b7ee1fb3e9b6a6a3a68852b3702b1d16ad396af25172be643b74",
+      "size": 824742746,
+      "version": "0.14.5"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "SLAQJGsHkRFIHR1VR5vtg3/KBIy2aCSTUPJ+Ve3j7TVY5kVJa38EEDxiANXucwlUn74Vat3i/HqM1NIGL6AdBQ=="
+  "signature": "9JIjb8rIUrHBWYA50vlpf7NkA9ng7LttR/JRKRST9b6TE4XsfjVycZrzueCdA9NeMX34LlJ20frVC02CLg9YAw=="
 }
