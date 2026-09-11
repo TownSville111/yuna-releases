@@ -3,81 +3,91 @@
     "beta": {
       "deltas": {
         "0.14.0": {
-          "sha256": "c41abf0bfd680f5a4d2e3f18e57a5ea134cd98735dec5dc7893464dcbf333120",
-          "size": 196641779,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.0.zip"
+          "sha256": "2a7b0427c4505a3aa6d25097473510f464e91906a1c5b7ae7600e10bfca3ed9c",
+          "size": 200452001,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "599d7627517657754a7abdc9f57ade48e5fe214b24af9fc2594c321530f3b1f0",
-          "size": 196615478,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.1.zip"
+          "sha256": "2d5271e5b2ee6e0e0e9d25974f77d5baf55aea661bf7fcf43bbe4254f92e1195",
+          "size": 200425702,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.1.zip"
         },
         "0.14.2": {
-          "sha256": "6b9728ed9cba05b164870c67b6c4642ca0a2d99892f6ff00b0d4a2eda7c163ec",
-          "size": 196615477,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.2.zip"
+          "sha256": "00267ab4f3c9567a4f049cda576fd86f336a2004355f6e4561f58bb78f204a39",
+          "size": 200425701,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.2.zip"
         },
         "0.14.3": {
-          "sha256": "321409a408ff25afd0da21f0ae51ebb70deea08820d808d356dcd83e06739476",
-          "size": 196533170,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.3.zip"
+          "sha256": "ed67e89efb303588a7e1dbf7f8e631a483cfdb49b7dfd33717d00a3fb9f44b5d",
+          "size": 200412199,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.3.zip"
         },
         "0.14.4": {
-          "sha256": "f2c9e1636b7325d0e6efd5e98926060283705bea2e03e591643b1c1450ed0ca5",
-          "size": 196533170,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.4.zip"
+          "sha256": "58107e3bb8d486c893d9a56e2b7cc59ca6c3787a3d34510666a402cf3e279a18",
+          "size": 200412199,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.4.zip"
+        },
+        "0.14.5": {
+          "sha256": "9ff7a7d3a980019aad224cf8e01ded1184cbd43b2893d5b30f14204454c6e394",
+          "size": 52050059,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.5.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.5.exe",
-      "installer_sha256": "813d6627a3355b535f50326f1d4cf2c2e98768c779080fd5b4802e8aacdb9db0",
-      "installer_size": 685158438,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YunaSetup-0.14.5.exe",
-      "notes": "Настройки наконец применяются - и сразу, без перезапуска: голос, речь, характер и стиль общения. Раньше выбор мог вообще потеряться. «Следующий трек» переключает следующий, а не ставит текущий заново, и «предыдущий» тоже работает. «Разрешить мат» теперь действует везде - и в командах, и в разговоре, - а ругается Юна разными словами, а не одним. Реплики видно прямо на рабочем столе, пузырём над её головой. Свой ключ OpenRouter можно вписать и с подпиской, и убрать обратно одной кнопкой. Подписка не теряется, если войти другим способом: Яндекс и Telegram ведут в один аккаунт.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5.zip",
-      "sha256": "d9cf8369c2a5b7ee1fb3e9b6a6a3a68852b3702b1d16ad396af25172be643b74",
-      "size": 824742746,
-      "version": "0.14.5"
+      "installer_name": "YunaSetup-0.14.6.exe",
+      "installer_sha256": "142f7ff675fec5908e5a128204718b2dd8955eef5ee1f9cc270c94957198f961",
+      "installer_size": 686843660,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YunaSetup-0.14.6.exe",
+      "notes": "Напарница перестала выдумывать: не называет врагом своих и не сочиняет цифры на экране, узнаёт игру по названию процесса и понимает, что перед ней хоррор. Гача - 50/50 как в Genshin: легендарка это персонаж или тип личности, проиграл - следующая точно персонаж. Кристаллы фармятся: недельные задания, награды за 7, 14 и 30 дней подряд, ежедневные задания меняются каждый день, одна крутка в день бесплатно. Свою модель Live2D или VRM можно принести по инструкции прямо на «Образе». Юна больше не замирает поверх игр в окне без рамки.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6.zip",
+      "sha256": "9a03ddd76134a66eb8d998f8f989256ab3a9cb8199fd0b802c2cfbef8d4d4d63",
+      "size": 826501367,
+      "version": "0.14.6"
     },
     "stable": {
       "deltas": {
         "0.14.0": {
-          "sha256": "c41abf0bfd680f5a4d2e3f18e57a5ea134cd98735dec5dc7893464dcbf333120",
-          "size": 196641779,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.0.zip"
+          "sha256": "2a7b0427c4505a3aa6d25097473510f464e91906a1c5b7ae7600e10bfca3ed9c",
+          "size": 200452001,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "599d7627517657754a7abdc9f57ade48e5fe214b24af9fc2594c321530f3b1f0",
-          "size": 196615478,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.1.zip"
+          "sha256": "2d5271e5b2ee6e0e0e9d25974f77d5baf55aea661bf7fcf43bbe4254f92e1195",
+          "size": 200425702,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.1.zip"
         },
         "0.14.2": {
-          "sha256": "6b9728ed9cba05b164870c67b6c4642ca0a2d99892f6ff00b0d4a2eda7c163ec",
-          "size": 196615477,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.2.zip"
+          "sha256": "00267ab4f3c9567a4f049cda576fd86f336a2004355f6e4561f58bb78f204a39",
+          "size": 200425701,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.2.zip"
         },
         "0.14.3": {
-          "sha256": "321409a408ff25afd0da21f0ae51ebb70deea08820d808d356dcd83e06739476",
-          "size": 196533170,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.3.zip"
+          "sha256": "ed67e89efb303588a7e1dbf7f8e631a483cfdb49b7dfd33717d00a3fb9f44b5d",
+          "size": 200412199,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.3.zip"
         },
         "0.14.4": {
-          "sha256": "f2c9e1636b7325d0e6efd5e98926060283705bea2e03e591643b1c1450ed0ca5",
-          "size": 196533170,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5-delta-from-0.14.4.zip"
+          "sha256": "58107e3bb8d486c893d9a56e2b7cc59ca6c3787a3d34510666a402cf3e279a18",
+          "size": 200412199,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.4.zip"
+        },
+        "0.14.5": {
+          "sha256": "9ff7a7d3a980019aad224cf8e01ded1184cbd43b2893d5b30f14204454c6e394",
+          "size": 52050059,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6-delta-from-0.14.5.zip"
         }
       },
-      "installer_name": "YunaSetup-0.14.5.exe",
-      "installer_sha256": "813d6627a3355b535f50326f1d4cf2c2e98768c779080fd5b4802e8aacdb9db0",
-      "installer_size": 685158438,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YunaSetup-0.14.5.exe",
-      "notes": "Настройки наконец применяются - и сразу, без перезапуска: голос, речь, характер и стиль общения. Раньше выбор мог вообще потеряться. «Следующий трек» переключает следующий, а не ставит текущий заново, и «предыдущий» тоже работает. «Разрешить мат» теперь действует везде - и в командах, и в разговоре, - а ругается Юна разными словами, а не одним. Реплики видно прямо на рабочем столе, пузырём над её головой. Свой ключ OpenRouter можно вписать и с подпиской, и убрать обратно одной кнопкой. Подписка не теряется, если войти другим способом: Яндекс и Telegram ведут в один аккаунт.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.5/YUNA-0.14.5.zip",
-      "sha256": "d9cf8369c2a5b7ee1fb3e9b6a6a3a68852b3702b1d16ad396af25172be643b74",
-      "size": 824742746,
-      "version": "0.14.5"
+      "installer_name": "YunaSetup-0.14.6.exe",
+      "installer_sha256": "142f7ff675fec5908e5a128204718b2dd8955eef5ee1f9cc270c94957198f961",
+      "installer_size": 686843660,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YunaSetup-0.14.6.exe",
+      "notes": "Напарница перестала выдумывать: не называет врагом своих и не сочиняет цифры на экране, узнаёт игру по названию процесса и понимает, что перед ней хоррор. Гача - 50/50 как в Genshin: легендарка это персонаж или тип личности, проиграл - следующая точно персонаж. Кристаллы фармятся: недельные задания, награды за 7, 14 и 30 дней подряд, ежедневные задания меняются каждый день, одна крутка в день бесплатно. Свою модель Live2D или VRM можно принести по инструкции прямо на «Образе». Юна больше не замирает поверх игр в окне без рамки.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.14.6/YUNA-0.14.6.zip",
+      "sha256": "9a03ddd76134a66eb8d998f8f989256ab3a9cb8199fd0b802c2cfbef8d4d4d63",
+      "size": 826501367,
+      "version": "0.14.6"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "9JIjb8rIUrHBWYA50vlpf7NkA9ng7LttR/JRKRST9b6TE4XsfjVycZrzueCdA9NeMX34LlJ20frVC02CLg9YAw=="
+  "signature": "4io6wY9Kg4zcUzxeS+98YKZaz8qy0pAW56Pi8B2RlspwlgBfY9i2wQom0iju82VJ7msaPVfPnuDTRiELp/6+AA=="
 }
