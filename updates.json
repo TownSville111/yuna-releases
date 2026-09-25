@@ -3,141 +3,151 @@
     "beta": {
       "deltas": {
         "0.14.0": {
-          "sha256": "5322e3c5bb5f888dc56c5038d3bc3c45ed48047c2e87e5ef15d8085e401a815d",
-          "size": 55584837,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.0.zip"
+          "sha256": "e7301c5cd6ffe24cfb1b09c8feae8661acbd282979a7853a48118856806d2127",
+          "size": 55689125,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "dca280d72725845f381ac6a540771a9b5be0d233bc7dcc04a0a7918f884386a2",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.1.zip"
+          "sha256": "8e45c4e63179267856f91f6ae6befc9ed3a5e193bdd0ce05f89ccd2d6ea60144",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.1.zip"
         },
         "0.14.2": {
-          "sha256": "a22725ccc8f9d585c3fa683c3b4371c85623ac93a2c3fb344da25d119fbcdc68",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.2.zip"
+          "sha256": "b8b33f97daa7ea09e849bb4679bf31abc60266f0050cee415026a322581cfe8c",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.2.zip"
         },
         "0.14.3": {
-          "sha256": "5088bfd4268c4cbfdd27c7ed6f18b66b60dae4495ca74ea09b2b72e0ecc48587",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.3.zip"
+          "sha256": "7be0b4f695874cdfd56166c7af7a6637c4296e17ffb86f275dbcda0fe95ce942",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.3.zip"
         },
         "0.14.4": {
-          "sha256": "45f47589ac98825f4b2fce3b15d9116e4705599d9c6e2ad4f12fb78a35ec40a6",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.4.zip"
+          "sha256": "3638c67eeb1b3103aa02e505d8643a9ef68727f0323f9597d879192b427cfec2",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.4.zip"
         },
         "0.14.5": {
-          "sha256": "7df9e3d60b3e881a07367f14568ab7f08b2e1a4e5097dee66fe92bb295abd542",
-          "size": 197221436,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.5.zip"
+          "sha256": "2b5f6099c198098b967e1657e598b61be64655e07193f0404858e84b0c7b583e",
+          "size": 197325716,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.5.zip"
         },
         "0.14.6": {
-          "sha256": "43c9deb4d6949ac7d7bec11922ac7bfc55d368b446a4929ea2e0e53c51dff555",
-          "size": 193922049,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.6.zip"
+          "sha256": "03d055a5017a089822ef65d500a9923a8b40fa303686a21ed09b5568949ead04",
+          "size": 194026326,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.6.zip"
         },
         "0.15.0": {
-          "sha256": "19392a6ad4e63e4c7abd8b77b388a6cb9d42429e900a878d14e4ae7609f520e2",
-          "size": 192476641,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.15.0.zip"
+          "sha256": "f0e879ee1d89b45d09471bc50cb68ea255dcb6ac4ed43df4555d73a35fd40226",
+          "size": 192580922,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.15.0.zip"
         },
         "0.16.0": {
-          "sha256": "a96da5a8428d5bbd152d06f52fe753cf49e20c9a072a8e86f609a7083275f934",
-          "size": 191868941,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.16.0.zip"
+          "sha256": "fc92c41f18c9485b083e684d22f4a08ad83bcd3ef8da6894a751565260f0460a",
+          "size": 192580923,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.16.0.zip"
         },
         "0.17.0": {
-          "sha256": "664547a11c66ebdf369b583d56b1b334a827af0f21f4ed9e0fb855097b92e771",
-          "size": 191868941,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.17.0.zip"
+          "sha256": "7b93641af5dc7b4b37857a0b09609e759497899b5bc6e99c7827be1128f80146",
+          "size": 192580923,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.17.0.zip"
         },
         "0.17.1": {
-          "sha256": "482c5d61520656e14a09ea5573ca347f14a48224927e68813a04c54e4f4a35ee",
-          "size": 46074353,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.17.1.zip"
+          "sha256": "cd2cbd2b7ee6bdf0dcda15532b737d8484bac87e9055ba2be1481fa5f4abca51",
+          "size": 46854537,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.17.1.zip"
+        },
+        "0.18.0": {
+          "sha256": "308f5d91b31d4fbde01a8dc9e4fc578db5b95544d38eb3c252b28ee53f084fb3",
+          "size": 46847040,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.18.0.zip"
         }
       },
-      "installer_name": "YunaSetup-0.18.0.exe",
-      "installer_sha256": "534227124174001301fc80a035192d25812d5f238a6e0b7013712e77c7029078",
-      "installer_size": 684892954,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YunaSetup-0.18.0.exe",
-      "notes": "Бесплатный тариф: после пробного периода Юна остаётся с тобой - команды, фигурка и до 30 ответов ИИ в сутки. Живой голос, взгляд на экран, память и напоминания - в «Про» и «Навсегда».",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0.zip",
-      "sha256": "b282d99d85aaaf462cba9417bf099e3018d267ddfbc8a8844bc4ac661c43b8cc",
-      "size": 823948224,
-      "version": "0.18.0"
+      "installer_name": "YunaSetup-0.19.0.exe",
+      "installer_sha256": "6535c2f3dde142a72e45de62188a1afd78f2853d3532707f86be52fe5d6c6b3b",
+      "installer_size": 684970510,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YunaSetup-0.19.0.exe",
+      "notes": "Оформление профиля: рамки, фоны, эффекты и коллекции, часть можно купить за рубли прямо в магазине. Профили друзей, аватар сохраняется кнопкой, кнопка «Тех.поддержка» на главной. Юна больше не мешает кликать мимо неё и видна на слабых видеокартах.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0.zip",
+      "sha256": "d23e841b712244c3be31ce60a78a1f8cc66724cb900bd2140c0c63fb8cdaf144",
+      "size": 824052511,
+      "version": "0.19.0"
     },
     "stable": {
       "deltas": {
         "0.14.0": {
-          "sha256": "5322e3c5bb5f888dc56c5038d3bc3c45ed48047c2e87e5ef15d8085e401a815d",
-          "size": 55584837,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.0.zip"
+          "sha256": "e7301c5cd6ffe24cfb1b09c8feae8661acbd282979a7853a48118856806d2127",
+          "size": 55689125,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.0.zip"
         },
         "0.14.1": {
-          "sha256": "dca280d72725845f381ac6a540771a9b5be0d233bc7dcc04a0a7918f884386a2",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.1.zip"
+          "sha256": "8e45c4e63179267856f91f6ae6befc9ed3a5e193bdd0ce05f89ccd2d6ea60144",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.1.zip"
         },
         "0.14.2": {
-          "sha256": "a22725ccc8f9d585c3fa683c3b4371c85623ac93a2c3fb344da25d119fbcdc68",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.2.zip"
+          "sha256": "b8b33f97daa7ea09e849bb4679bf31abc60266f0050cee415026a322581cfe8c",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.2.zip"
         },
         "0.14.3": {
-          "sha256": "5088bfd4268c4cbfdd27c7ed6f18b66b60dae4495ca74ea09b2b72e0ecc48587",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.3.zip"
+          "sha256": "7be0b4f695874cdfd56166c7af7a6637c4296e17ffb86f275dbcda0fe95ce942",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.3.zip"
         },
         "0.14.4": {
-          "sha256": "45f47589ac98825f4b2fce3b15d9116e4705599d9c6e2ad4f12fb78a35ec40a6",
-          "size": 55558536,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.4.zip"
+          "sha256": "3638c67eeb1b3103aa02e505d8643a9ef68727f0323f9597d879192b427cfec2",
+          "size": 55662824,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.4.zip"
         },
         "0.14.5": {
-          "sha256": "7df9e3d60b3e881a07367f14568ab7f08b2e1a4e5097dee66fe92bb295abd542",
-          "size": 197221436,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.5.zip"
+          "sha256": "2b5f6099c198098b967e1657e598b61be64655e07193f0404858e84b0c7b583e",
+          "size": 197325716,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.5.zip"
         },
         "0.14.6": {
-          "sha256": "43c9deb4d6949ac7d7bec11922ac7bfc55d368b446a4929ea2e0e53c51dff555",
-          "size": 193922049,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.14.6.zip"
+          "sha256": "03d055a5017a089822ef65d500a9923a8b40fa303686a21ed09b5568949ead04",
+          "size": 194026326,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.14.6.zip"
         },
         "0.15.0": {
-          "sha256": "19392a6ad4e63e4c7abd8b77b388a6cb9d42429e900a878d14e4ae7609f520e2",
-          "size": 192476641,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.15.0.zip"
+          "sha256": "f0e879ee1d89b45d09471bc50cb68ea255dcb6ac4ed43df4555d73a35fd40226",
+          "size": 192580922,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.15.0.zip"
         },
         "0.16.0": {
-          "sha256": "a96da5a8428d5bbd152d06f52fe753cf49e20c9a072a8e86f609a7083275f934",
-          "size": 191868941,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.16.0.zip"
+          "sha256": "fc92c41f18c9485b083e684d22f4a08ad83bcd3ef8da6894a751565260f0460a",
+          "size": 192580923,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.16.0.zip"
         },
         "0.17.0": {
-          "sha256": "664547a11c66ebdf369b583d56b1b334a827af0f21f4ed9e0fb855097b92e771",
-          "size": 191868941,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.17.0.zip"
+          "sha256": "7b93641af5dc7b4b37857a0b09609e759497899b5bc6e99c7827be1128f80146",
+          "size": 192580923,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.17.0.zip"
         },
         "0.17.1": {
-          "sha256": "482c5d61520656e14a09ea5573ca347f14a48224927e68813a04c54e4f4a35ee",
-          "size": 46074353,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0-delta-from-0.17.1.zip"
+          "sha256": "cd2cbd2b7ee6bdf0dcda15532b737d8484bac87e9055ba2be1481fa5f4abca51",
+          "size": 46854537,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.17.1.zip"
+        },
+        "0.18.0": {
+          "sha256": "308f5d91b31d4fbde01a8dc9e4fc578db5b95544d38eb3c252b28ee53f084fb3",
+          "size": 46847040,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0-delta-from-0.18.0.zip"
         }
       },
-      "installer_name": "YunaSetup-0.18.0.exe",
-      "installer_sha256": "534227124174001301fc80a035192d25812d5f238a6e0b7013712e77c7029078",
-      "installer_size": 684892954,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YunaSetup-0.18.0.exe",
-      "notes": "Бесплатный тариф: после пробного периода Юна остаётся с тобой - команды, фигурка и до 30 ответов ИИ в сутки. Живой голос, взгляд на экран, память и напоминания - в «Про» и «Навсегда».",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.18.0/YUNA-0.18.0.zip",
-      "sha256": "b282d99d85aaaf462cba9417bf099e3018d267ddfbc8a8844bc4ac661c43b8cc",
-      "size": 823948224,
-      "version": "0.18.0"
+      "installer_name": "YunaSetup-0.19.0.exe",
+      "installer_sha256": "6535c2f3dde142a72e45de62188a1afd78f2853d3532707f86be52fe5d6c6b3b",
+      "installer_size": 684970510,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YunaSetup-0.19.0.exe",
+      "notes": "Оформление профиля: рамки, фоны, эффекты и коллекции, часть можно купить за рубли прямо в магазине. Профили друзей, аватар сохраняется кнопкой, кнопка «Тех.поддержка» на главной. Юна больше не мешает кликать мимо неё и видна на слабых видеокартах.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.19.0/YUNA-0.19.0.zip",
+      "sha256": "d23e841b712244c3be31ce60a78a1f8cc66724cb900bd2140c0c63fb8cdaf144",
+      "size": 824052511,
+      "version": "0.19.0"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "G1qLEatgrPWuA12hbr8MIWzZ5XZnUmIGTqvsi3CprKQ3Ztv65i+pEC4hY6+E9PWyhGAgFbN1SadlhV7VH6z7BQ=="
+  "signature": "TJao/eVTWGOLZhUJa2A89Ngyv1CBT5U2LP8cZ6zqM2dkl1LE4KKJcZ7lGT2jogGsPQnKPKv0WThbpfF7v3b+BA=="
 }
