@@ -3,101 +3,111 @@
     "beta": {
       "deltas": {
         "0.17.0": {
-          "sha256": "0be5ae8bb6e44a2b48ec0d510e4a2fe1e3ce6b3645ca3d5c551ba6492707c79b",
-          "size": 174335257,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.17.0.zip"
+          "sha256": "ed3159146b7fc76ccec3c8501a58074f11b1ea72e86f743ec84af648b093ef8a",
+          "size": 179852101,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.0.zip"
         },
         "0.17.1": {
-          "sha256": "f109bc74f7511960bad5846e759c419adf62b74e85edb31bda0d93f37f4d61eb",
-          "size": 83390442,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.17.1.zip"
+          "sha256": "7405daa5e1a5217b358d6aaa606713887576a62732a742971d6e1a60cb32439d",
+          "size": 88924117,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.1.zip"
         },
         "0.18.0": {
-          "sha256": "584fa17502a715cd8c20fea4b34ddb6fe51f0e05ae0bb8b5a668254d7f6c1477",
-          "size": 83390442,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.18.0.zip"
+          "sha256": "a03beb8e977abfb018e03e927bf066b0bcacd1bd7ab33f0be2a1c89a0c18688a",
+          "size": 88924116,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.18.0.zip"
         },
         "0.19.0": {
-          "sha256": "8d49783107c642b2b9436f392942ed124050e97a9d1a20425486cde5d727f1aa",
-          "size": 83380882,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.19.0.zip"
+          "sha256": "bbafb0d6ab8bb57df8e98bc6f31728e6b74e9cc3c29e80825038fbe66cd10c26",
+          "size": 88914552,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.0.zip"
         },
         "0.19.1": {
-          "sha256": "86331942958e259b2390414cf76f08c38d3d987a750f3ae36667671c92693ece",
-          "size": 83380882,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.19.1.zip"
+          "sha256": "5884c95ba889c5b08f0e196227e4ce189aa52ccf32d79b2338fb317ce01ed197",
+          "size": 88914553,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.1.zip"
         },
         "0.20.0": {
-          "sha256": "e66fdc9a2543cbc8fcb471398565d809e9a6f540b60efa2ec73b27b578a70b2a",
-          "size": 82701019,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.20.0.zip"
+          "sha256": "3acaed267915b4dab2bd684c73323c0e3f312b0fafcec8274a8d144bc47ef37c",
+          "size": 88234693,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.0.zip"
         },
         "0.20.5": {
-          "sha256": "7bf662d996188fa1e4db117fe101276a80090deec1fd62c106b0114e43de6ee7",
-          "size": 46814621,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.20.5.zip"
+          "sha256": "2b317d157bd8ddff4b392dc6a3c7fdd2807d3110e92d4c351aaf0eeb91f091c8",
+          "size": 52377754,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.5.zip"
+        },
+        "0.20.6": {
+          "sha256": "8368e853dbc720d0a12396ea8933c670ed1df0b0fd7d42d9bc6a8308be593b6f",
+          "size": 52046889,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.6.zip"
         }
       },
-      "installer_name": "YunaSetup-0.20.6.exe",
-      "installer_sha256": "179707824b64c990404e2c8f6a51391dac8e2c9d5e5cba947aee5ba93e542fbe",
-      "installer_size": 693882569,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YunaSetup-0.20.6.exe",
-      "notes": "Исправления: 3D-фигурка стоит лицом и с опущенными руками (VRoid и модели из Blender), напарник не выдумывает «сзади!», вход при неточных часах, сценарии с сочетаниями клавиш, мир коллекции «Сакура» в профиле.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6.zip",
-      "sha256": "c3dfbf6a85696caa55e5572d47420354c197983375f88809f18c08626d41ed3d",
-      "size": 833142524,
-      "version": "0.20.6"
+      "installer_name": "YunaSetup-0.30.0.exe",
+      "installer_sha256": "3fae68fabb71c6641d9afc97e5bc6fab3dfaf5d07a72573c24dc49da5f1324a6",
+      "installer_size": 701567026,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YunaSetup-0.30.0.exe",
+      "notes": "Хэллоуин: событие Purple Moon до 31 октября, баннер «Пурпурная ведьма» с 20 октября, Юна-агент «почини и настрой» в Про, островок вверху экрана, приглашение друга, новые настройки и друзья, лаунчер плавнее, исправлено застревание обновления.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0.zip",
+      "sha256": "095c4c25ab41dc922306141bbb91a32ef135ab6378e0c67223a9a3a3dcdf4ea4",
+      "size": 838641907,
+      "version": "0.30.0"
     },
     "stable": {
       "deltas": {
         "0.17.0": {
-          "sha256": "0be5ae8bb6e44a2b48ec0d510e4a2fe1e3ce6b3645ca3d5c551ba6492707c79b",
-          "size": 174335257,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.17.0.zip"
+          "sha256": "ed3159146b7fc76ccec3c8501a58074f11b1ea72e86f743ec84af648b093ef8a",
+          "size": 179852101,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.0.zip"
         },
         "0.17.1": {
-          "sha256": "f109bc74f7511960bad5846e759c419adf62b74e85edb31bda0d93f37f4d61eb",
-          "size": 83390442,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.17.1.zip"
+          "sha256": "7405daa5e1a5217b358d6aaa606713887576a62732a742971d6e1a60cb32439d",
+          "size": 88924117,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.1.zip"
         },
         "0.18.0": {
-          "sha256": "584fa17502a715cd8c20fea4b34ddb6fe51f0e05ae0bb8b5a668254d7f6c1477",
-          "size": 83390442,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.18.0.zip"
+          "sha256": "a03beb8e977abfb018e03e927bf066b0bcacd1bd7ab33f0be2a1c89a0c18688a",
+          "size": 88924116,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.18.0.zip"
         },
         "0.19.0": {
-          "sha256": "8d49783107c642b2b9436f392942ed124050e97a9d1a20425486cde5d727f1aa",
-          "size": 83380882,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.19.0.zip"
+          "sha256": "bbafb0d6ab8bb57df8e98bc6f31728e6b74e9cc3c29e80825038fbe66cd10c26",
+          "size": 88914552,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.0.zip"
         },
         "0.19.1": {
-          "sha256": "86331942958e259b2390414cf76f08c38d3d987a750f3ae36667671c92693ece",
-          "size": 83380882,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.19.1.zip"
+          "sha256": "5884c95ba889c5b08f0e196227e4ce189aa52ccf32d79b2338fb317ce01ed197",
+          "size": 88914553,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.1.zip"
         },
         "0.20.0": {
-          "sha256": "e66fdc9a2543cbc8fcb471398565d809e9a6f540b60efa2ec73b27b578a70b2a",
-          "size": 82701019,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.20.0.zip"
+          "sha256": "3acaed267915b4dab2bd684c73323c0e3f312b0fafcec8274a8d144bc47ef37c",
+          "size": 88234693,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.0.zip"
         },
         "0.20.5": {
-          "sha256": "7bf662d996188fa1e4db117fe101276a80090deec1fd62c106b0114e43de6ee7",
-          "size": 46814621,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6-delta-from-0.20.5.zip"
+          "sha256": "2b317d157bd8ddff4b392dc6a3c7fdd2807d3110e92d4c351aaf0eeb91f091c8",
+          "size": 52377754,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.5.zip"
+        },
+        "0.20.6": {
+          "sha256": "8368e853dbc720d0a12396ea8933c670ed1df0b0fd7d42d9bc6a8308be593b6f",
+          "size": 52046889,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.6.zip"
         }
       },
-      "installer_name": "YunaSetup-0.20.6.exe",
-      "installer_sha256": "179707824b64c990404e2c8f6a51391dac8e2c9d5e5cba947aee5ba93e542fbe",
-      "installer_size": 693882569,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YunaSetup-0.20.6.exe",
-      "notes": "Исправления: 3D-фигурка стоит лицом и с опущенными руками (VRoid и модели из Blender), напарник не выдумывает «сзади!», вход при неточных часах, сценарии с сочетаниями клавиш, мир коллекции «Сакура» в профиле.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.20.6/YUNA-0.20.6.zip",
-      "sha256": "c3dfbf6a85696caa55e5572d47420354c197983375f88809f18c08626d41ed3d",
-      "size": 833142524,
-      "version": "0.20.6"
+      "installer_name": "YunaSetup-0.30.0.exe",
+      "installer_sha256": "3fae68fabb71c6641d9afc97e5bc6fab3dfaf5d07a72573c24dc49da5f1324a6",
+      "installer_size": 701567026,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YunaSetup-0.30.0.exe",
+      "notes": "Хэллоуин: событие Purple Moon до 31 октября, баннер «Пурпурная ведьма» с 20 октября, Юна-агент «почини и настрой» в Про, островок вверху экрана, приглашение друга, новые настройки и друзья, лаунчер плавнее, исправлено застревание обновления.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0.zip",
+      "sha256": "095c4c25ab41dc922306141bbb91a32ef135ab6378e0c67223a9a3a3dcdf4ea4",
+      "size": 838641907,
+      "version": "0.30.0"
     }
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "w5pILEEwrvP9lmsE0kbGsXlv0TFCV10tdox/9B5fJrCU4TwwXABFKgoWGwh14BIhGBKAutDBuutRChsnD38LDg=="
+  "signature": "dcHgbiLTymf0zQq39CKwo2FNw8d5+Vdic7QqI+cFjR4dbD0UQ03XGdHLHhCX9p7W2ggioJrZeFdx149FbwikCw=="
 }
