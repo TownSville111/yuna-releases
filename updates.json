@@ -45,11 +45,11 @@
       },
       "hotfixes": {
         "0.30.0": {
-          "id": 1,
-          "notes": "Окно обновления со шкалой и «Что нового», галочка агента, оформление, кнопка покупки",
-          "sha256": "a3a684a0c8b7d3ed9b7963e6df417206468365d1c0bee180b720c0156ccd69c6",
-          "size": 867583,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-1.zip"
+          "id": 2,
+          "notes": "Таблицы рекордов мини-игр с коронами; окно обновления, галочка агента, правки профиля",
+          "sha256": "7e6b153f7db0363a76c8894f19000ff143a4d06a9b12b0ddcedbaf2f53d3e25f",
+          "size": 923743,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-2.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.0.exe",
@@ -107,11 +107,11 @@
       },
       "hotfixes": {
         "0.30.0": {
-          "id": 1,
-          "notes": "Окно обновления со шкалой и «Что нового», галочка агента, оформление, кнопка покупки",
-          "sha256": "a3a684a0c8b7d3ed9b7963e6df417206468365d1c0bee180b720c0156ccd69c6",
-          "size": 867583,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-1.zip"
+          "id": 2,
+          "notes": "Таблицы рекордов мини-игр с коронами; окно обновления, галочка агента, правки профиля",
+          "sha256": "7e6b153f7db0363a76c8894f19000ff143a4d06a9b12b0ddcedbaf2f53d3e25f",
+          "size": 923743,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-2.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.0.exe",
@@ -126,9 +126,9 @@
     }
   },
   "hotfix_last_ids": {
-    "0.30.0": 1
+    "0.30.0": 2
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "NNUe6a3VBRVNM2APi6JitkgKe+xQ44yYqClc5AiePnS6yB1SFQA4Evh6erJe0kqbUuTofjM1KJb6mFhGKE03DQ=="
+  "signature": "3SCYOC2ycxWwXqTyWoBc1r7H3aX7Ef5z4aAai4IKLlXF3WXg87LKOe5ArTRJUdW46H74/OMb3x924Of6+igHCw=="
 }
