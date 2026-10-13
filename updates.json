@@ -45,11 +45,11 @@
       },
       "hotfixes": {
         "0.30.0": {
-          "id": 2,
-          "notes": "Таблицы рекордов мини-игр с коронами; окно обновления, галочка агента, правки профиля",
-          "sha256": "7e6b153f7db0363a76c8894f19000ff143a4d06a9b12b0ddcedbaf2f53d3e25f",
-          "size": 923743,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-2.zip"
+          "id": 3,
+          "notes": "Островок перетаскивается мышью и не кричит во сне; напарник не тормошит за молчание; рекорды мини-игр с коронами; окно обновления",
+          "sha256": "6da6f9aaa13066ff7b76d86b80d90e118783d98ddd9b4949f56ce50272981e9d",
+          "size": 1031318,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-3.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.0.exe",
@@ -107,11 +107,11 @@
       },
       "hotfixes": {
         "0.30.0": {
-          "id": 2,
-          "notes": "Таблицы рекордов мини-игр с коронами; окно обновления, галочка агента, правки профиля",
-          "sha256": "7e6b153f7db0363a76c8894f19000ff143a4d06a9b12b0ddcedbaf2f53d3e25f",
-          "size": 923743,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-2.zip"
+          "id": 3,
+          "notes": "Островок перетаскивается мышью и не кричит во сне; напарник не тормошит за молчание; рекорды мини-игр с коронами; окно обновления",
+          "sha256": "6da6f9aaa13066ff7b76d86b80d90e118783d98ddd9b4949f56ce50272981e9d",
+          "size": 1031318,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-3.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.0.exe",
@@ -126,9 +126,9 @@
     }
   },
   "hotfix_last_ids": {
-    "0.30.0": 2
+    "0.30.0": 3
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "3SCYOC2ycxWwXqTyWoBc1r7H3aX7Ef5z4aAai4IKLlXF3WXg87LKOe5ArTRJUdW46H74/OMb3x924Of6+igHCw=="
+  "signature": "UcDlo8/eFHkkm1Q9FLzZJvqdQQMEQk5oDQsd86Jlg8u2A4vQnkRVFjoEQ1ArlU8vAybFeDx5VS9KVcUmYxkZCQ=="
 }
