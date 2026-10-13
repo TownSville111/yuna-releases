@@ -45,11 +45,11 @@
       },
       "hotfixes": {
         "0.30.0": {
-          "id": 3,
-          "notes": "Островок перетаскивается мышью и не кричит во сне; напарник не тормошит за молчание; рекорды мини-игр с коронами; окно обновления",
-          "sha256": "6da6f9aaa13066ff7b76d86b80d90e118783d98ddd9b4949f56ce50272981e9d",
-          "size": 1031318,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-3.zip"
+          "id": 4,
+          "notes": "Прозрачный островок (обычный / в играх / всегда); островок перетаскивается и не кричит во сне; напарник не тормошит; рекорды мини-игр",
+          "sha256": "5c298dd2f0a3bf2cca8f19cc8cdf91ce666b110474aced07f01738ac2f000833",
+          "size": 1032697,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-4.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.0.exe",
@@ -107,11 +107,11 @@
       },
       "hotfixes": {
         "0.30.0": {
-          "id": 3,
-          "notes": "Островок перетаскивается мышью и не кричит во сне; напарник не тормошит за молчание; рекорды мини-игр с коронами; окно обновления",
-          "sha256": "6da6f9aaa13066ff7b76d86b80d90e118783d98ddd9b4949f56ce50272981e9d",
-          "size": 1031318,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-3.zip"
+          "id": 4,
+          "notes": "Прозрачный островок (обычный / в играх / всегда); островок перетаскивается и не кричит во сне; напарник не тормошит; рекорды мини-игр",
+          "sha256": "5c298dd2f0a3bf2cca8f19cc8cdf91ce666b110474aced07f01738ac2f000833",
+          "size": 1032697,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-4.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.0.exe",
@@ -126,9 +126,9 @@
     }
   },
   "hotfix_last_ids": {
-    "0.30.0": 3
+    "0.30.0": 4
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "UcDlo8/eFHkkm1Q9FLzZJvqdQQMEQk5oDQsd86Jlg8u2A4vQnkRVFjoEQ1ArlU8vAybFeDx5VS9KVcUmYxkZCQ=="
+  "signature": "lJjSMpMcZKFwtOEoucS2I6cedaZlFVwzhT6QOnwkjtEFpPj+86F+ZSxz/ZTrekkArUgYFkTgZaBPHeUTJImZCg=="
 }
