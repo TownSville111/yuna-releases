@@ -43,6 +43,15 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.6.zip"
         }
       },
+      "hotfixes": {
+        "0.30.0": {
+          "id": 1,
+          "notes": "Окно обновления со шкалой и «Что нового», галочка агента, оформление, кнопка покупки",
+          "sha256": "a3a684a0c8b7d3ed9b7963e6df417206468365d1c0bee180b720c0156ccd69c6",
+          "size": 867583,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-1.zip"
+        }
+      },
       "installer_name": "YunaSetup-0.30.0.exe",
       "installer_sha256": "3fae68fabb71c6641d9afc97e5bc6fab3dfaf5d07a72573c24dc49da5f1324a6",
       "installer_size": 701567026,
@@ -96,6 +105,15 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.6.zip"
         }
       },
+      "hotfixes": {
+        "0.30.0": {
+          "id": 1,
+          "notes": "Окно обновления со шкалой и «Что нового», галочка агента, оформление, кнопка покупки",
+          "sha256": "a3a684a0c8b7d3ed9b7963e6df417206468365d1c0bee180b720c0156ccd69c6",
+          "size": 867583,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-1.zip"
+        }
+      },
       "installer_name": "YunaSetup-0.30.0.exe",
       "installer_sha256": "3fae68fabb71c6641d9afc97e5bc6fab3dfaf5d07a72573c24dc49da5f1324a6",
       "installer_size": 701567026,
@@ -107,7 +125,10 @@
       "version": "0.30.0"
     }
   },
+  "hotfix_last_ids": {
+    "0.30.0": 1
+  },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "dcHgbiLTymf0zQq39CKwo2FNw8d5+Vdic7QqI+cFjR4dbD0UQ03XGdHLHhCX9p7W2ggioJrZeFdx149FbwikCw=="
+  "signature": "NNUe6a3VBRVNM2APi6JitkgKe+xQ44yYqClc5AiePnS6yB1SFQA4Evh6erJe0kqbUuTofjM1KJb6mFhGKE03DQ=="
 }
