@@ -2,47 +2,69 @@
   "channels": {
     "beta": {
       "deltas": {
-        "0.17.0": {
-          "sha256": "ed3159146b7fc76ccec3c8501a58074f11b1ea72e86f743ec84af648b093ef8a",
-          "size": 179852101,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.0.zip"
-        },
-        "0.17.1": {
-          "sha256": "7405daa5e1a5217b358d6aaa606713887576a62732a742971d6e1a60cb32439d",
-          "size": 88924117,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.1.zip"
-        },
-        "0.18.0": {
-          "sha256": "a03beb8e977abfb018e03e927bf066b0bcacd1bd7ab33f0be2a1c89a0c18688a",
-          "size": 88924116,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.18.0.zip"
-        },
-        "0.19.0": {
-          "sha256": "bbafb0d6ab8bb57df8e98bc6f31728e6b74e9cc3c29e80825038fbe66cd10c26",
-          "size": 88914552,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.0.zip"
-        },
-        "0.19.1": {
-          "sha256": "5884c95ba889c5b08f0e196227e4ce189aa52ccf32d79b2338fb317ce01ed197",
-          "size": 88914553,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.1.zip"
-        },
         "0.20.0": {
-          "sha256": "3acaed267915b4dab2bd684c73323c0e3f312b0fafcec8274a8d144bc47ef37c",
-          "size": 88234693,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.0.zip"
+          "sha256": "9805601aa2410ab49274c5c8a0c2e81b33aa64fc77ac9e607227acd9745ec9a0",
+          "size": 267126933,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.20.0.zip"
         },
         "0.20.5": {
-          "sha256": "2b317d157bd8ddff4b392dc6a3c7fdd2807d3110e92d4c351aaf0eeb91f091c8",
-          "size": 52377754,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.5.zip"
+          "sha256": "a449e445685f04547582a1725c6ce07b99e28a192c77a974132d45c551cd40ce",
+          "size": 231551111,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.20.5.zip"
         },
         "0.20.6": {
-          "sha256": "8368e853dbc720d0a12396ea8933c670ed1df0b0fd7d42d9bc6a8308be593b6f",
-          "size": 52046889,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.6.zip"
+          "sha256": "52f7c91fa62c394bdb5343f74a7a68b96c377bede161729f6fe6063e8dddf68e",
+          "size": 231551111,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.20.6.zip"
+        },
+        "0.30.0": {
+          "sha256": "c4a9249836d6551753e78f4aa096026b97b8bf45aee8fbcc944f77c96660d31e",
+          "size": 226602998,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.30.0.zip"
         }
       },
+      "highlights": [
+        {
+          "icon": "🧙‍♀️",
+          "text": "С 20 октября в 14:00 по Москве: баннер с образом ведьмы, турнир, своя тыква, «Сладость или гадость» и общий котёл.",
+          "title": "Ведьма проснулась"
+        },
+        {
+          "icon": "🧩",
+          "text": "Таймер, напоминания, заметки, сеть и скриншот. Собери панель под себя карандашом в шапке. В «Про» и «Навсегда».",
+          "title": "Виджеты островка"
+        },
+        {
+          "icon": "📖",
+          "text": "Главы 4-8 сюжета. Юна в них говорит сразу, без ожидания.",
+          "title": "Вторая история «Эхо»"
+        },
+        {
+          "icon": "🎙️",
+          "text": "Новая модель распознавания речи. Начало фразы больше не теряется, длинная фраза приходит целиком.",
+          "title": "Слышит лучше"
+        },
+        {
+          "icon": "🏝️",
+          "text": "Чёрная тема, счёт матча в LoL, CS2 и Dota 2 при напарнике, кнопки «Да / Нет». Брось на капсулу картинку или текст - Юна объяснит.",
+          "title": "Островок живее"
+        },
+        {
+          "icon": "🎯",
+          "text": "Потяни голову Юны с островка и брось на любое место экрана - она расскажет, что там.",
+          "title": "Юна-указка"
+        },
+        {
+          "icon": "📺",
+          "text": "Стримеры могут вывести островок в эфир: адрес для «Браузера» OBS - в настройках островка.",
+          "title": "Островок в OBS"
+        },
+        {
+          "icon": "⚡",
+          "text": "Пока ты в игре, лаунчер почти не грузит процессор и не мигает.",
+          "title": "Лаунчер легче"
+        }
+      ],
       "hotfixes": {
         "0.30.0": {
           "id": 9,
@@ -52,59 +74,81 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         }
       },
-      "installer_name": "YunaSetup-0.30.0.exe",
-      "installer_sha256": "3fae68fabb71c6641d9afc97e5bc6fab3dfaf5d07a72573c24dc49da5f1324a6",
-      "installer_size": 701567026,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YunaSetup-0.30.0.exe",
-      "notes": "Хэллоуин: событие Purple Moon до 31 октября, баннер «Пурпурная ведьма» с 20 октября, Юна-агент «почини и настрой» в Про, островок вверху экрана, приглашение друга, новые настройки и друзья, лаунчер плавнее, исправлено застревание обновления.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0.zip",
-      "sha256": "095c4c25ab41dc922306141bbb91a32ef135ab6378e0c67223a9a3a3dcdf4ea4",
-      "size": 838641907,
-      "version": "0.30.0"
+      "installer_name": "YunaSetup-0.30.1.exe",
+      "installer_sha256": "419595180e2ecf1a7f50f6d56a08a9cad9c904bc04b4199752b801d397108cc0",
+      "installer_size": 721104371,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YunaSetup-0.30.1.exe",
+      "notes": "Ведьма проснулась: вторая половина события с 20 октября в 14:00. Виджеты островка, продолжение сюжета, Юна слышит лучше, лаунчер легче за игрой.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1.zip",
+      "sha256": "93bcd89a9ef8d0de15e8380c04b3f7cdda310b9cd999ea94954f775d7c50ee4e",
+      "size": 858302341,
+      "version": "0.30.1"
     },
     "stable": {
       "deltas": {
-        "0.17.0": {
-          "sha256": "ed3159146b7fc76ccec3c8501a58074f11b1ea72e86f743ec84af648b093ef8a",
-          "size": 179852101,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.0.zip"
-        },
-        "0.17.1": {
-          "sha256": "7405daa5e1a5217b358d6aaa606713887576a62732a742971d6e1a60cb32439d",
-          "size": 88924117,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.17.1.zip"
-        },
-        "0.18.0": {
-          "sha256": "a03beb8e977abfb018e03e927bf066b0bcacd1bd7ab33f0be2a1c89a0c18688a",
-          "size": 88924116,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.18.0.zip"
-        },
-        "0.19.0": {
-          "sha256": "bbafb0d6ab8bb57df8e98bc6f31728e6b74e9cc3c29e80825038fbe66cd10c26",
-          "size": 88914552,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.0.zip"
-        },
-        "0.19.1": {
-          "sha256": "5884c95ba889c5b08f0e196227e4ce189aa52ccf32d79b2338fb317ce01ed197",
-          "size": 88914553,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.19.1.zip"
-        },
         "0.20.0": {
-          "sha256": "3acaed267915b4dab2bd684c73323c0e3f312b0fafcec8274a8d144bc47ef37c",
-          "size": 88234693,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.0.zip"
+          "sha256": "9805601aa2410ab49274c5c8a0c2e81b33aa64fc77ac9e607227acd9745ec9a0",
+          "size": 267126933,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.20.0.zip"
         },
         "0.20.5": {
-          "sha256": "2b317d157bd8ddff4b392dc6a3c7fdd2807d3110e92d4c351aaf0eeb91f091c8",
-          "size": 52377754,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.5.zip"
+          "sha256": "a449e445685f04547582a1725c6ce07b99e28a192c77a974132d45c551cd40ce",
+          "size": 231551111,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.20.5.zip"
         },
         "0.20.6": {
-          "sha256": "8368e853dbc720d0a12396ea8933c670ed1df0b0fd7d42d9bc6a8308be593b6f",
-          "size": 52046889,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0-delta-from-0.20.6.zip"
+          "sha256": "52f7c91fa62c394bdb5343f74a7a68b96c377bede161729f6fe6063e8dddf68e",
+          "size": 231551111,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.20.6.zip"
+        },
+        "0.30.0": {
+          "sha256": "c4a9249836d6551753e78f4aa096026b97b8bf45aee8fbcc944f77c96660d31e",
+          "size": 226602998,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1-delta-from-0.30.0.zip"
         }
       },
+      "highlights": [
+        {
+          "icon": "🧙‍♀️",
+          "text": "С 20 октября в 14:00 по Москве: баннер с образом ведьмы, турнир, своя тыква, «Сладость или гадость» и общий котёл.",
+          "title": "Ведьма проснулась"
+        },
+        {
+          "icon": "🧩",
+          "text": "Таймер, напоминания, заметки, сеть и скриншот. Собери панель под себя карандашом в шапке. В «Про» и «Навсегда».",
+          "title": "Виджеты островка"
+        },
+        {
+          "icon": "📖",
+          "text": "Главы 4-8 сюжета. Юна в них говорит сразу, без ожидания.",
+          "title": "Вторая история «Эхо»"
+        },
+        {
+          "icon": "🎙️",
+          "text": "Новая модель распознавания речи. Начало фразы больше не теряется, длинная фраза приходит целиком.",
+          "title": "Слышит лучше"
+        },
+        {
+          "icon": "🏝️",
+          "text": "Чёрная тема, счёт матча в LoL, CS2 и Dota 2 при напарнике, кнопки «Да / Нет». Брось на капсулу картинку или текст - Юна объяснит.",
+          "title": "Островок живее"
+        },
+        {
+          "icon": "🎯",
+          "text": "Потяни голову Юны с островка и брось на любое место экрана - она расскажет, что там.",
+          "title": "Юна-указка"
+        },
+        {
+          "icon": "📺",
+          "text": "Стримеры могут вывести островок в эфир: адрес для «Браузера» OBS - в настройках островка.",
+          "title": "Островок в OBS"
+        },
+        {
+          "icon": "⚡",
+          "text": "Пока ты в игре, лаунчер почти не грузит процессор и не мигает.",
+          "title": "Лаунчер легче"
+        }
+      ],
       "hotfixes": {
         "0.30.0": {
           "id": 9,
@@ -114,15 +158,15 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         }
       },
-      "installer_name": "YunaSetup-0.30.0.exe",
-      "installer_sha256": "3fae68fabb71c6641d9afc97e5bc6fab3dfaf5d07a72573c24dc49da5f1324a6",
-      "installer_size": 701567026,
-      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YunaSetup-0.30.0.exe",
-      "notes": "Хэллоуин: событие Purple Moon до 31 октября, баннер «Пурпурная ведьма» с 20 октября, Юна-агент «почини и настрой» в Про, островок вверху экрана, приглашение друга, новые настройки и друзья, лаунчер плавнее, исправлено застревание обновления.",
-      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/YUNA-0.30.0.zip",
-      "sha256": "095c4c25ab41dc922306141bbb91a32ef135ab6378e0c67223a9a3a3dcdf4ea4",
-      "size": 838641907,
-      "version": "0.30.0"
+      "installer_name": "YunaSetup-0.30.1.exe",
+      "installer_sha256": "419595180e2ecf1a7f50f6d56a08a9cad9c904bc04b4199752b801d397108cc0",
+      "installer_size": 721104371,
+      "installer_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YunaSetup-0.30.1.exe",
+      "notes": "Ведьма проснулась: вторая половина события с 20 октября в 14:00. Виджеты островка, продолжение сюжета, Юна слышит лучше, лаунчер легче за игрой.",
+      "package_url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/YUNA-0.30.1.zip",
+      "sha256": "93bcd89a9ef8d0de15e8380c04b3f7cdda310b9cd999ea94954f775d7c50ee4e",
+      "size": 858302341,
+      "version": "0.30.1"
     }
   },
   "hotfix_last_ids": {
@@ -130,5 +174,5 @@
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "9hWQrS9QjDEOK44xNqLB5B5Ydp9bmF4/e8Kn2TDVVHm2tmFnibUu85CHUN0SnbqWLn6CPSg/b5/Z8jgnFCxkDg=="
+  "signature": "uvR8k5PZRCw/lUJm+gBvkpDzgsPM8sA24IbhdFwDubcmO5y/9BmcGF35xeKHoelT2cAny/Wv8c7QXaZk97EJCA=="
 }
