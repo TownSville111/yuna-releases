@@ -74,11 +74,11 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         },
         "0.30.1": {
-          "id": 2,
-          "notes": "В игре Юна отвечает, когда к ней обращаются («ты меня слышишь?», «почему не отвечаешь»)\nЮна сама включает и выключает мат по просьбе («включи мат», «не матерись»)\nТип личности голосом: «стань цундэрэ», «верни обычный характер»",
-          "sha256": "828da7dc6a3f3103878abb06c057003e0350e033c4688f51e55fc376c1f2fcb3",
-          "size": 516760,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-2.zip"
+          "id": 3,
+          "notes": "Образ «Пурпурная ведьма» переодевает и Юну на рабочем столе (модель скачается сама)\nВ игре Юна отвечает, когда к ней обращаются («ты меня слышишь?», «почему не отвечаешь»)\nЮна сама включает и выключает мат по просьбе («включи мат», «не матерись»)\nТип личности голосом: «стань цундэрэ», «верни обычный характер»",
+          "sha256": "f4d7552bdea81280cc8cf0cd5126a11afbb7db16dbb3ba4a5575fc7a35432e35",
+          "size": 930897,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-3.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.1.exe",
@@ -165,11 +165,11 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         },
         "0.30.1": {
-          "id": 2,
-          "notes": "В игре Юна отвечает, когда к ней обращаются («ты меня слышишь?», «почему не отвечаешь»)\nЮна сама включает и выключает мат по просьбе («включи мат», «не матерись»)\nТип личности голосом: «стань цундэрэ», «верни обычный характер»",
-          "sha256": "828da7dc6a3f3103878abb06c057003e0350e033c4688f51e55fc376c1f2fcb3",
-          "size": 516760,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-2.zip"
+          "id": 3,
+          "notes": "Образ «Пурпурная ведьма» переодевает и Юну на рабочем столе (модель скачается сама)\nВ игре Юна отвечает, когда к ней обращаются («ты меня слышишь?», «почему не отвечаешь»)\nЮна сама включает и выключает мат по просьбе («включи мат», «не матерись»)\nТип личности голосом: «стань цундэрэ», «верни обычный характер»",
+          "sha256": "f4d7552bdea81280cc8cf0cd5126a11afbb7db16dbb3ba4a5575fc7a35432e35",
+          "size": 930897,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-3.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.1.exe",
@@ -185,9 +185,9 @@
   },
   "hotfix_last_ids": {
     "0.30.0": 9,
-    "0.30.1": 2
+    "0.30.1": 3
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "0qa0+TD5zvyYnsWrcRQ+u8nZOG74w+GLf6PVeKNEDtXEkNUpz897rLoE3EDqKtVhnP9Xw0CpYC1kMAwFEnVaCw=="
+  "signature": "4DtnCmfdorHlQnonuBPBZJXYGlfixirQi6OaCrvp3k2c6JXrVtOjCelQqYndUDaGF8czUCeDKjtLrLlvLSqGCw=="
 }
