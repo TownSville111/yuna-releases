@@ -74,11 +74,11 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         },
         "0.30.1": {
-          "id": 8,
-          "notes": "Болтливая напарница отвечает на каждую твою фразу: не засыпает сама, на стриме слышит тебя без имени. Включается в «Разговорчивости» напарника.",
-          "sha256": "baafc1bbd53a57ca44ea01924b3b8fe02e68e2bbb925e394bf798a8f55b6e3c8",
-          "size": 1445690,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-8.zip"
+          "id": 9,
+          "notes": "Напарник настраивается под себя: «Болтливая», «Средняя», «Тихая» или «Своя» в «Взгляд на экран» - как часто говорит, когда отвечает (на любую фразу, по имени, по твоим словам), длина реплик. Починено прослушивание голоса характера.",
+          "sha256": "cd4cf5c4487bf2b1914ac5cfb1c3660ddee7c2df5733801522e5ec82c87510e5",
+          "size": 1452858,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-9.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.1.exe",
@@ -165,11 +165,11 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         },
         "0.30.1": {
-          "id": 8,
-          "notes": "Болтливая напарница отвечает на каждую твою фразу: не засыпает сама, на стриме слышит тебя без имени. Включается в «Разговорчивости» напарника.",
-          "sha256": "baafc1bbd53a57ca44ea01924b3b8fe02e68e2bbb925e394bf798a8f55b6e3c8",
-          "size": 1445690,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-8.zip"
+          "id": 9,
+          "notes": "Напарник настраивается под себя: «Болтливая», «Средняя», «Тихая» или «Своя» в «Взгляд на экран» - как часто говорит, когда отвечает (на любую фразу, по имени, по твоим словам), длина реплик. Починено прослушивание голоса характера.",
+          "sha256": "cd4cf5c4487bf2b1914ac5cfb1c3660ddee7c2df5733801522e5ec82c87510e5",
+          "size": 1452858,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-9.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.1.exe",
@@ -185,9 +185,9 @@
   },
   "hotfix_last_ids": {
     "0.30.0": 9,
-    "0.30.1": 8
+    "0.30.1": 9
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "60Ax9Tkq7EgyldamKn2c79YOzQu5oGTAfDZY850/3EuVsJwY3bkK048biwk/xycDd1JcHB1vDZc9DrG/t9IDDg=="
+  "signature": "+UAtEslQq/QvGGz0qOSt+AWSe5bY9YLk4Qx0aTaDJLTHXNGUcWSm/hc3uQNlJDifzEpClVhRxn4HXZxf86OcDA=="
 }
