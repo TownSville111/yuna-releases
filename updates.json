@@ -74,11 +74,11 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         },
         "0.30.1": {
-          "id": 9,
-          "notes": "Напарник настраивается под себя: «Болтливая», «Средняя», «Тихая» или «Своя» в «Взгляд на экран» - как часто говорит, когда отвечает (на любую фразу, по имени, по твоим словам), длина реплик. Починено прослушивание голоса характера.",
-          "sha256": "cd4cf5c4487bf2b1914ac5cfb1c3660ddee7c2df5733801522e5ec82c87510e5",
-          "size": 1452858,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-9.zip"
+          "id": 10,
+          "notes": "Напарник по-новому: ползунок «Сколько говорит», «Когда отвечает тебе» и очередь речи - Юна не перебивает разговор и смотрит на экран, только когда может сказать. «Юна, найди информацию о…» пересказывает по источникам без выдумок, «прочитай и перескажи» читает текст с экрана. Котёл на 100 000 тыкв и уникальная ачивка «Луна в котле». Настройки стали короче. Снятая ведьма возвращает обычную Юну, у ведьмы сидячая поза с руками на коленях.",
+          "sha256": "bf2c06bf007f557245bc290db7d58be8c9e3f21a6d0db838cf9ab60b95cc5710",
+          "size": 1565168,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-10.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.1.exe",
@@ -165,11 +165,11 @@
           "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.0/hotfix-0.30.0-9.zip"
         },
         "0.30.1": {
-          "id": 9,
-          "notes": "Напарник настраивается под себя: «Болтливая», «Средняя», «Тихая» или «Своя» в «Взгляд на экран» - как часто говорит, когда отвечает (на любую фразу, по имени, по твоим словам), длина реплик. Починено прослушивание голоса характера.",
-          "sha256": "cd4cf5c4487bf2b1914ac5cfb1c3660ddee7c2df5733801522e5ec82c87510e5",
-          "size": 1452858,
-          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-9.zip"
+          "id": 10,
+          "notes": "Напарник по-новому: ползунок «Сколько говорит», «Когда отвечает тебе» и очередь речи - Юна не перебивает разговор и смотрит на экран, только когда может сказать. «Юна, найди информацию о…» пересказывает по источникам без выдумок, «прочитай и перескажи» читает текст с экрана. Котёл на 100 000 тыкв и уникальная ачивка «Луна в котле». Настройки стали короче. Снятая ведьма возвращает обычную Юну, у ведьмы сидячая поза с руками на коленях.",
+          "sha256": "bf2c06bf007f557245bc290db7d58be8c9e3f21a6d0db838cf9ab60b95cc5710",
+          "size": 1565168,
+          "url": "https://github.com/TownSville111/yuna-releases/releases/download/v0.30.1/hotfix-0.30.1-10.zip"
         }
       },
       "installer_name": "YunaSetup-0.30.1.exe",
@@ -185,9 +185,9 @@
   },
   "hotfix_last_ids": {
     "0.30.0": 9,
-    "0.30.1": 9
+    "0.30.1": 10
   },
   "key_id": "prod-2026",
   "manifest_schema_version": 1,
-  "signature": "+UAtEslQq/QvGGz0qOSt+AWSe5bY9YLk4Qx0aTaDJLTHXNGUcWSm/hc3uQNlJDifzEpClVhRxn4HXZxf86OcDA=="
+  "signature": "z1A4HGQgcF/Kye//++lf2eWTdiwjMWwZCIVSF+4ZjCAin9E7fMatcYLf57EfRZD6+WfdHINLTpeYi2cpIxBGAg=="
 }
